@@ -5,12 +5,6 @@ Este proyecto desarrolla un algoritmo de análisis y visualización de datos ele
 
 ---
 
-## 📌 Objetivo General
-
-Aplicar los conocimientos adquiridos en el curso de **Metodología del analisis de la Opinión Pública** para analizar la evolución del apoyo a un candidato, utilizando herramientas de Python y principios estadísticos.
-
----
-
 ## Datos Utilizados
 
 El dataset contiene una muestra representativa con las siguientes variables:
@@ -27,7 +21,3 @@ El dataset contiene una muestra representativa con las siguientes variables:
 | `imagen_del_candidato`            | Numérica     | Puntaje (0 a 100) sobre la imagen del candidato           |
 | `voto`                            | Categórica   | Intención de voto (positivo/negativo/nsnc)                |
 | `voto_anterior`                   | Categórica   | A quién votó el encuestado en la elección anterior        |
-
-
-## 📁 Estructura del Proyecto
-
