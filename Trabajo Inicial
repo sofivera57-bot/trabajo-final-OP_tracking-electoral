@@ -1,0 +1,69 @@
+LECTURA DEL  ARCHIVO
+   leer CSV y convertir columna "Fecha" a fecha
+
+EXPLORACION INICIAL.
+   Mostrar primeras filas
+   Mostrar tipos de datos
+   Mostrar descripcion estadistica 
+   Mostrar cantidad de valores faltantes por columna
+
+NORMALIZACION DE COLUMNAS
+ PARA CADA NOMBRE DE COLUMNA 
+    -convertir a minusculas
+    - quitar acentos 
+    - remplazar espacios o simbolos por guiones bajos 
+
+LIMPIEZA Y CONVERSION DE FECHA
+   Forzar conversion de columna "fecha" a tipo fecha
+   Eliminar filas que tengan fechas nulas.
+
+ELIMINACION DE DUPLICADOS
+  SI la columna "encuesta" existe 
+      Contar filas duplicadas por ese ID 
+  SINO:
+      mostrar advertencia y continuar.
+
+(ESTO NO SE SI VA) LIMPIEZA DE COLUMNA NUMERICA (IMAGEN)
+(RECATEGORIZACION DE VARIABLE IMAGEN DE CANDIDATO)
+
+RECATEGORIZACION DE VARIABLES DE VOTO.
+  Convertir voto y voto anterior a minisculas y sin espacios 
+  Definir diccionario de recategorizacion
+    Para cada valor:
+         buscar en el mapa 
+         si no existe asignar "otro"
+  Crear columnas: voto_recat y voto_anterior_recat como categorias 
+  Mostrar conteo final.
+
+CREACION DE SERIES TRACKING.
+    1)Agrupar por fecha:
+         Calcular imagen promedo diaria 
+         Calcular porcentaje de voto diario del candidato (transformado a 0/1)
+    2) Unir ambas series en un dataFrame
+    3) Reindexar a frecuencia diaria (completar fechas faltantes )
+    4) Interpolar valores faltantes 
+    5) Aplicar media movil (ventana 7 dias)
+    6)Devolver Data freme con columnas:
+        - Imagen_ tracking
+        - voto_tracking.
+
+VISUALIZACION DE FLUJO DE VOTO Y TRACKING
+    Crear tabla cruzada voto_anterior_recat vs voto_recat
+
+Calcular:
+    Retencion= voto anterior A → Voto actual A
+    Captacion= total voto A actual - retencion
+    Fuga = voto anterior A → Voto actual distinto
+Graficar barras: retencion, captacion, fuga
+Mostrar valores
+
+GRAFICO DE TRACKING 
+   Y=Graficar series de voto_tracking
+   X=Graficar serie de imagen_tracking 
+Mostar grafico
+
+
+
+
+
+     
