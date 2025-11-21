@@ -27,7 +27,10 @@ IMPUTACION DE VARIABLES
     Genero = Peso = porcentaje poblacional/ porcentaje de la muestra .  
     Edad = Peso = porcentaje poblacional/ porcentaje de la muestra .  
     Nivel educativo = Peso = porcentaje poblacional/ porcentaje de la muestra .  
-    Estrato (Provincia) = Peso = porcentaje poblacional/ porcentaje de la muestra .  
+    Estrato (Provincia) = Peso = porcentaje poblacional/ porcentaje de la muestra.
+
+(LA ENCUESTAS QUE NO CONTENGAN LAS RESPUESTAS SOBRE ESTAS VARIABLES SE ELIMINAN)
+
 
 LIMPIEZA DE COLUMNA NUMERICA (IMAGEN)
    Convertir a numero (eliminar simbolos como "%")
