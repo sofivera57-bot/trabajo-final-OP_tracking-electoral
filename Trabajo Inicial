@@ -23,8 +23,19 @@ ELIMINACION DE DUPLICADOS
   SINO:
       mostrar advertencia y continuar.
 
-(ESTO NO SE SI VA) LIMPIEZA DE COLUMNA NUMERICA (IMAGEN)
-(RECATEGORIZACION DE VARIABLE IMAGEN DE CANDIDATO)
+IMPUTACION DE VARIABLES
+    Genero = Peso = porcentaje poblacional/ porcentaje de la muestra .  
+    Edad = Peso = porcentaje poblacional/ porcentaje de la muestra .  
+    Nivel educativo = Peso = porcentaje poblacional/ porcentaje de la muestra .  
+    Estrato (Provincia) = Peso = porcentaje poblacional/ porcentaje de la muestra .  
+
+LIMPIEZA DE COLUMNA NUMERICA (IMAGEN)
+   Convertir a numero (eliminar simbolos como "%")
+   Remplazar valores fuera del rango permitido de NaN
+   Imputar NaN segun metodo
+   redondear e imputar el tipo numerico
+   Mostrar cantidad imputada
+
 
 RECATEGORIZACION DE VARIABLES DE VOTO.
   Convertir voto y voto anterior a minisculas y sin espacios 
