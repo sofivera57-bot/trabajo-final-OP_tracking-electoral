@@ -1,0 +1,1001 @@
+Fecha,Encuesta,Estrato,Sexo,Edad,Nivel_Educativo,Cantidad_Hogar,Imagen_Candidato,Voto,Voto_Anterior
+2025-10-16,1,San Juan,masculino,,terciario,3,50.75328905203576,indeciso,indeciso
+2025-10-09,2,Chubut,masculino,30.0,,4,49.03594680028749,ns/nc,ns/nc
+2025-10-10,3,Jujuy,femenino,68.0,primario,3,111.08558346426918,candidato,ns/nc
+2025-10-02,4,Chaco,masculino,37.0,secundario,5,47.34307884783252,,ns/nc
+2025-10-29,5,San Luis,masculino,62.0,terciario,6,35.74134242298133,candidato,en blanco
+2025-10-02,6,Salta,masculino,47.0,universitario,6,47.52127528621297,en blanco,oposicion
+2025-10-04,7,Corrientes,femenino,46.0,universitario,6,49.27921127349337,candidato,candidato
+2025-10-27,8,Catamarca,masculino,,terciario,3,54.57881831290627,indeciso,indeciso
+2025-10-27,9,Chaco,femenino,19.0,terciario,5,22.469902747311366,en blanco,candidato
+2025-10-28,10,La Pampa,femenino,15.0,universitario,2,62.49325198213123,indeciso,indeciso
+2025-10-31,11,Salta,masculino,42.0,primario,4,79.97107427331436,indeciso,indeciso
+2025-10-17,12,Jujuy,masculino,66.0,primario,2,40.31345798638035,en blanco,candidato
+2025-10-24,13,Buenos Aires,masculino,67.0,primario,3,36.536371896895055,oposicion,ns/nc
+2025-10-30,14,Formosa,femenino,37.0,secundario,3,37.429094986781394,indeciso,en blanco
+2025-10-22,15,Chaco,femenino,41.0,secundario,3,37.94387790339432,oposicion,en blanco
+2025-10-03,16,Formosa,femenino,46.0,primario,5,68.82777255700806,candidato,ns/nc
+2025-10-27,17,Corrientes,masculino,33.0,terciario,2,66.63126345555283,oposicion,ns/nc
+2025-10-10,18,Neuquén,masculino,48.0,secundario,2,44.25429286614623,en blanco,candidato
+2025-10-02,19,Chaco,masculino,69.0,terciario,4,48.58192972531803,oposicion,oposicion
+2025-10-01,20,San Luis,masculino,36.0,universitario,4,17.653241540986386,oposicion,indeciso
+2025-10-21,21,San Luis,femenino,14.0,terciario,6,59.09467204155924,ns/nc,en blanco
+2025-10-06,22,Neuquén,femenino,49.0,secundario,6,15.955955233363298,oposicion,ns/nc
+2025-10-14,23,Neuquén,masculino,22.0,secundario,3,62.496542461666614,ns/nc,oposicion
+2025-10-29,24,Santa Cruz,femenino,19.0,secundario,5,53.30212066198697,en blanco,indeciso
+2025-10-02,25,Neuquén,femenino,20.0,primario,2,45.41982813902772,ns/nc,en blanco
+2025-10-23,26,Salta,femenino,23.0,primario,3,72.2969797639954,candidato,en blanco
+2025-10-13,27,Formosa,masculino,60.0,universitario,1,64.31525064996283,oposicion,indeciso
+2025-10-14,28,Río Negro,femenino,32.0,universitario,5,73.4695093268165,en blanco,indeciso
+2025-10-14,29,Tucumán,masculino,31.0,terciario,1,75.01223040028941,indeciso,en blanco
+2025-10-02,30,Río Negro,masculino,39.0,secundario,3,32.05129601793948,ns/nc,en blanco
+2025-10-16,31,Río Negro,masculino,56.0,secundario,6,13.989485898274523,ns/nc,en blanco
+2025-10-07,32,Mendoza,femenino,47.0,terciario,2,39.22392898341694,indeciso,ns/nc
+2025-10-31,33,San Juan,masculino,42.0,primario,6,74.87198818661074,oposicion,indeciso
+2025-10-26,34,Córdoba,masculino,63.0,universitario,4,39.72805281744624,oposicion,candidato
+2025-10-22,35,Santa Cruz,femenino,23.0,universitario,5,56.90663693413316,,en blanco
+2025-10-12,36,Santa Cruz,femenino,21.0,secundario,4,65.42654329579187,candidato,en blanco
+2025-10-09,37,San Juan,masculino,20.0,terciario,6,52.47169807713035,candidato,indeciso
+2025-10-29,38,Mendoza,masculino,13.0,universitario,4,114.14171684901177,candidato,ns/nc
+2025-10-06,39,Catamarca,masculino,21.0,universitario,5,65.65386223603852,indeciso,indeciso
+2025-10-14,40,La Pampa,femenino,32.0,terciario,6,106.62503570708671,indeciso,indeciso
+2025-10-04,41,Córdoba,femenino,25.0,terciario,3,34.7493078952936,indeciso,oposicion
+2025-10-28,42,San Juan,femenino,57.0,terciario,2,80.72296698491292,ns/nc,oposicion
+2025-10-09,43,Santa Fe,masculino,43.0,universitario,6,,indeciso,candidato
+2025-10-22,44,La Rioja,masculino,6.0,secundario,5,36.32009453576899,en blanco,indeciso
+2025-10-25,45,Jujuy,masculino,46.0,terciario,6,49.55731631788077,ns/nc,ns/nc
+2025-10-28,46,Tucumán,femenino,34.0,primario,1,55.65808896309059,candidato,oposicion
+2025-10-28,47,Jujuy,masculino,33.0,secundario,4,,en blanco,indeciso
+2025-10-06,48,Neuquén,masculino,55.0,secundario,4,55.01426965473818,oposicion,indeciso
+2025-10-01,49,Córdoba,femenino,45.0,primario,6,71.71049882409943,ns/nc,en blanco
+2025-10-24,50,Entre Ríos,masculino,65.0,secundario,6,44.903629915876365,ns/nc,indeciso
+2025-10-28,51,Santiago del Estero,masculino,39.0,universitario,6,44.337662520803285,oposicion,ns/nc
+2025-10-30,52,Chubut,masculino,67.0,terciario,5,75.81324858491203,oposicion,candidato
+2025-10-05,53,Jujuy,femenino,26.0,universitario,1,65.43368643793289,en blanco,en blanco
+2025-10-25,54,Santiago del Estero,femenino,45.0,secundario,6,39.6109725875294,candidato,ns/nc
+2025-10-18,55,Córdoba,femenino,5.0,terciario,4,64.11284049410449,oposicion,oposicion
+2025-10-20,56,Jujuy,femenino,39.0,terciario,1,74.83829488050614,candidato,indeciso
+2025-10-15,57,Chubut,masculino,56.0,universitario,5,28.009720953460896,candidato,candidato
+2025-10-06,58,Neuquén,masculino,34.0,secundario,5,,en blanco,indeciso
+2025-10-12,59,La Rioja,femenino,65.0,,5,63.14248078476703,candidato,candidato
+2025-10-30,60,Buenos Aires,femenino,20.0,primario,1,33.86937751477355,ns/nc,indeciso
+2025-10-09,61,Misiones,masculino,25.0,secundario,6,74.15652726499573,oposicion,candidato
+2025-10-29,62,San Juan,masculino,59.0,primario,2,38.609738919893275,oposicion,ns/nc
+2025-10-23,63,Formosa,masculino,34.0,terciario,1,171.0,ns/nc,oposicion
+2025-10-14,64,Chaco,masculino,30.0,primario,2,48.594009563077954,candidato,candidato
+2025-10-26,65,Catamarca,femenino,31.0,primario,6,49.82215494584684,oposicion,oposicion
+2025-10-22,66,La Rioja,femenino,48.0,terciario,2,100.71940916859782,ns/nc,en blanco
+2025-10-03,67,San Juan,femenino,45.0,secundario,3,80.33351219974162,ns/nc,indeciso
+2025-10-09,68,Formosa,masculino,24.0,secundario,5,56.469907720142764,ns/nc,ns/nc
+2025-10-12,69,Formosa,masculino,38.0,primario,3,80.57983533128163,oposicion,oposicion
+2025-10-26,70,Salta,masculino,26.0,terciario,3,81.63763784142604,en blanco,ns/nc
+2025-10-28,71,San Juan,femenino,42.0,secundario,4,71.72724431446542,ns/nc,en blanco
+2025-10-19,72,Río Negro,femenino,45.0,secundario,5,45.60417793786877,ns/nc,candidato
+2025-10-02,73,Formosa,masculino,32.0,terciario,1,52.83033480542706,ns/nc,en blanco
+2025-10-22,74,Santa Fe,masculino,35.0,secundario,6,58.41266149086036,indeciso,candidato
+2025-10-08,75,Salta,masculino,35.0,terciario,5,48.70220196749297,oposicion,candidato
+2025-10-25,76,San Luis,masculino,35.0,secundario,3,56.063769336787075,oposicion,oposicion
+2025-10-05,77,La Rioja,femenino,57.0,secundario,6,55.50863138284261,candidato,ns/nc
+2025-10-06,78,Tucumán,masculino,36.0,primario,3,43.23980991290174,indeciso,oposicion
+2025-10-31,79,Corrientes,masculino,22.0,terciario,1,48.73475019499951,indeciso,indeciso
+2025-10-08,80,Río Negro,femenino,65.0,universitario,2,62.90059739041248,ns/nc,candidato
+2025-10-06,81,Misiones,masculino,44.0,terciario,6,73.7184042095285,ns/nc,en blanco
+2025-10-22,82,Chaco,femenino,41.0,primario,1,43.76609584181831,candidato,ns/nc
+2025-10-06,83,Formosa,masculino,51.0,universitario,1,,indeciso,indeciso
+2025-10-05,84,Mendoza,masculino,37.0,universitario,5,67.8055166632827,candidato,candidato
+2025-10-03,85,San Luis,femenino,62.0,primario,4,41.07630263350507,ns/nc,ns/nc
+2025-10-09,86,Formosa,masculino,49.0,terciario,6,80.49963889002917,,oposicion
+2025-10-18,87,Buenos Aires,femenino,51.0,universitario,5,35.18902489509186,indeciso,oposicion
+2025-10-18,88,La Rioja,masculino,68.0,terciario,1,106.6025682140881,indeciso,en blanco
+2025-10-28,89,Río Negro,masculino,,primario,5,52.215111438502376,oposicion,ns/nc
+2025-10-10,90,Neuquén,femenino,35.0,secundario,4,54.82453055548148,indeciso,ns/nc
+2025-10-13,91,Tierra del Fuego,masculino,44.0,terciario,5,42.34104267709506,oposicion,candidato
+2025-10-14,92,Río Negro,masculino,33.0,terciario,4,53.0707533204789,indeciso,ns/nc
+2025-10-12,93,Tucumán,femenino,65.0,secundario,5,97.50730951736642,ns/nc,indeciso
+2025-10-26,94,San Juan,femenino,39.0,secundario,2,40.14867760444545,oposicion,en blanco
+2025-10-13,95,Misiones,masculino,42.0,primario,1,21.514005822975292,en blanco,ns/nc
+2025-10-04,96,Tierra del Fuego,femenino,41.0,primario,5,33.616443725428475,ns/nc,ns/nc
+2025-10-27,97,Mendoza,masculino,42.0,universitario,6,69.664894459918,candidato,en blanco
+2025-10-18,98,Buenos Aires,femenino,39.0,,4,44.010566531267045,indeciso,en blanco
+2025-10-20,99,Chaco,masculino,31.0,primario,1,70.93936406231111,oposicion,ns/nc
+2025-10-20,100,Jujuy,masculino,33.0,universitario,4,37.536708268240275,candidato,ns/nc
+2025-10-30,101,San Juan,masculino,41.0,secundario,6,70.70600823540799,oposicion,oposicion
+2025-10-28,102,Tierra del Fuego,femenino,42.0,primario,5,21.90483087938238,indeciso,oposicion
+2025-10-19,103,Misiones,masculino,37.0,secundario,5,49.52529652990485,oposicion,indeciso
+2025-10-27,104,San Juan,masculino,55.0,secundario,3,42.34538128866815,indeciso,indeciso
+2025-10-30,105,Córdoba,masculino,33.0,universitario,2,64.31160971561062,ns/nc,oposicion
+2025-10-29,106,Córdoba,femenino,32.0,secundario,4,88.92183850015732,indeciso,en blanco
+2025-10-06,107,Salta,masculino,30.0,universitario,6,61.976911999675174,en blanco,candidato
+2025-10-21,108,Buenos Aires,femenino,55.0,secundario,5,75.16004904460962,en blanco,oposicion
+2025-10-14,109,Córdoba,femenino,86.0,primario,3,42.52605188904499,ns/nc,indeciso
+2025-10-01,110,Misiones,masculino,42.0,universitario,3,27.06448332993635,candidato,indeciso
+2025-10-03,111,Tucumán,femenino,42.0,terciario,3,67.25540515311405,indeciso,en blanco
+2025-10-15,112,Santiago del Estero,masculino,42.0,terciario,1,58.141351983772,candidato,oposicion
+2025-10-20,113,San Luis,femenino,44.0,universitario,2,54.85421491984491,ns/nc,oposicion
+2025-10-12,114,Neuquén,masculino,43.0,primario,4,90.17990299510075,ns/nc,oposicion
+2025-10-31,115,San Luis,femenino,18.0,secundario,5,82.30241127497953,oposicion,oposicion
+2025-10-19,116,Tucumán,masculino,26.0,universitario,1,76.12670095195762,ns/nc,indeciso
+2025-10-12,117,La Rioja,femenino,10.0,universitario,6,89.48410735598547,ns/nc,indeciso
+2025-10-31,118,Misiones,masculino,40.0,universitario,2,16.697846577275847,oposicion,oposicion
+2025-10-04,119,Santa Fe,masculino,34.0,terciario,4,50.937091787235175,oposicion,indeciso
+2025-10-21,120,Catamarca,masculino,55.0,terciario,2,66.83558016992,candidato,candidato
+2025-10-22,121,Santa Fe,femenino,49.0,secundario,1,91.2201741813939,indeciso,en blanco
+2025-10-07,122,La Rioja,masculino,37.0,universitario,2,54.03668900784054,candidato,en blanco
+2025-10-02,123,Salta,femenino,65.0,universitario,2,34.32695629922213,oposicion,en blanco
+2025-10-10,124,Tierra del Fuego,femenino,19.0,primario,5,84.73581443332216,indeciso,candidato
+2025-10-29,125,Jujuy,femenino,45.0,primario,5,100.81847425756763,oposicion,en blanco
+2025-10-18,126,Entre Ríos,femenino,72.0,universitario,1,54.61890016718839,en blanco,candidato
+2025-10-22,127,Río Negro,femenino,51.0,,6,32.34558360197149,indeciso,oposicion
+2025-10-18,128,Chaco,femenino,48.0,secundario,2,57.89873261314971,en blanco,oposicion
+2025-10-28,129,Corrientes,femenino,27.0,primario,3,56.55580431988392,candidato,ns/nc
+2025-10-19,130,Misiones,femenino,38.0,primario,6,35.30471039135145,oposicion,en blanco
+2025-10-31,131,Santa Fe,masculino,60.0,universitario,2,90.82878509056604,oposicion,candidato
+2025-10-22,132,Tierra del Fuego,femenino,31.0,secundario,3,51.92067812784482,oposicion,ns/nc
+2025-10-14,133,Corrientes,femenino,36.0,secundario,6,50.42993566144366,ns/nc,indeciso
+2025-10-01,134,Río Negro,masculino,25.0,primario,4,63.685532777274105,candidato,indeciso
+2025-10-28,135,San Juan,femenino,39.0,terciario,3,43.98618012014168,candidato,indeciso
+2025-10-04,136,Salta,masculino,27.0,universitario,6,32.56620731925061,candidato,indeciso
+2025-10-08,137,Misiones,masculino,,universitario,5,38.031527577009314,indeciso,ns/nc
+2025-10-01,138,Santiago del Estero,masculino,46.0,terciario,4,46.62216524840424,en blanco,candidato
+2025-10-28,139,Tierra del Fuego,masculino,73.0,secundario,4,50.071456236392805,candidato,indeciso
+2025-10-26,140,San Luis,masculino,56.0,secundario,2,,oposicion,oposicion
+2025-10-20,141,Santa Fe,masculino,34.0,,3,26.0166286841975,candidato,ns/nc
+2025-10-03,142,Mendoza,masculino,29.0,secundario,2,52.477494393713926,oposicion,oposicion
+2025-10-01,143,Entre Ríos,masculino,37.0,secundario,4,20.336562199559367,en blanco,oposicion
+2025-10-24,144,Neuquén,femenino,-1.0,universitario,2,74.96754769891471,indeciso,ns/nc
+2025-10-12,145,La Rioja,femenino,46.0,primario,6,69.956862909112,ns/nc,ns/nc
+2025-10-01,146,Tierra del Fuego,masculino,59.0,universitario,5,63.65332013024101,ns/nc,candidato
+2025-10-06,147,Santa Cruz,femenino,24.0,secundario,3,51.72370102418204,candidato,ns/nc
+2025-10-24,148,Entre Ríos,masculino,21.0,primario,1,63.77316917124975,ns/nc,en blanco
+2025-10-19,149,Misiones,masculino,34.0,primario,2,43.51632973891223,oposicion,candidato
+2025-10-19,150,Catamarca,femenino,35.0,universitario,5,76.08082560317592,ns/nc,indeciso
+2025-10-19,151,Catamarca,masculino,25.0,universitario,1,53.82641211155866,candidato,oposicion
+2025-10-18,152,Jujuy,masculino,47.0,primario,2,63.665159521859024,ns/nc,candidato
+2025-10-18,153,Buenos Aires,masculino,36.0,terciario,2,66.66483814595335,oposicion,indeciso
+2025-10-04,154,Entre Ríos,masculino,17.0,,6,47.329562117614095,oposicion,oposicion
+2025-10-30,155,Santa Cruz,masculino,,secundario,4,65.56126935938572,ns/nc,en blanco
+2025-10-05,156,Chaco,masculino,47.0,secundario,2,67.14071960017176,,ns/nc
+2025-10-16,157,Jujuy,masculino,45.0,terciario,4,47.70556399579681,en blanco,indeciso
+2025-10-30,158,Santiago del Estero,femenino,41.0,primario,3,53.87137587161536,candidato,candidato
+2025-10-06,159,Formosa,femenino,,terciario,4,106.31110017601821,indeciso,indeciso
+2025-10-02,160,Neuquén,femenino,43.0,primario,6,99.26032295060392,oposicion,ns/nc
+2025-10-09,161,Buenos Aires,femenino,45.0,universitario,5,22.712580893722752,ns/nc,indeciso
+2025-10-14,162,Jujuy,femenino,68.0,terciario,2,41.59269460335467,indeciso,ns/nc
+2025-10-09,163,La Pampa,masculino,64.0,secundario,6,65.58888277720247,en blanco,en blanco
+2025-10-03,164,Misiones,masculino,55.0,secundario,2,47.61595833543286,en blanco,candidato
+2025-10-14,165,Misiones,masculino,42.0,universitario,1,104.70441983889003,,ns/nc
+2025-10-15,166,La Pampa,masculino,60.0,secundario,6,35.88076412665413,en blanco,indeciso
+2025-10-24,167,Córdoba,masculino,32.0,primario,1,95.30056420627736,en blanco,oposicion
+2025-10-11,168,Corrientes,femenino,48.0,universitario,4,45.84836873706182,indeciso,oposicion
+2025-10-29,169,La Rioja,femenino,,terciario,1,34.08145483332471,oposicion,en blanco
+2025-10-20,170,Chaco,masculino,24.0,universitario,2,54.71005133407079,oposicion,oposicion
+2025-10-15,171,Santa Cruz,masculino,55.0,primario,3,69.64575905899403,indeciso,indeciso
+2025-10-12,172,Formosa,femenino,44.0,universitario,6,78.76989312740054,candidato,indeciso
+2025-10-23,173,Formosa,femenino,42.0,universitario,5,59.98722491754643,en blanco,candidato
+2025-10-15,174,Córdoba,masculino,30.0,primario,6,40.42607037994553,oposicion,oposicion
+2025-10-16,175,La Rioja,femenino,63.0,secundario,4,93.70490754401146,ns/nc,candidato
+2025-10-16,176,Jujuy,femenino,70.0,universitario,4,52.20930554470425,candidato,candidato
+2025-10-17,177,Entre Ríos,masculino,45.0,primario,2,25.764211568036384,indeciso,indeciso
+2025-10-30,178,Tierra del Fuego,masculino,58.0,primario,5,59.786455250654825,en blanco,ns/nc
+2025-10-16,179,Santa Cruz,femenino,39.0,secundario,3,63.81016979455514,ns/nc,oposicion
+2025-10-15,180,Santa Cruz,masculino,73.0,terciario,6,47.06323630138714,oposicion,en blanco
+2025-10-23,181,Tierra del Fuego,masculino,35.0,secundario,5,18.266112015785545,ns/nc,en blanco
+2025-10-08,182,Salta,masculino,35.0,universitario,4,69.41294993508826,oposicion,ns/nc
+2025-10-16,183,Santa Fe,masculino,63.0,primario,3,39.48715567945404,candidato,candidato
+2025-10-15,184,Buenos Aires,masculino,32.0,terciario,6,,ns/nc,ns/nc
+2025-10-27,185,Corrientes,masculino,26.0,secundario,2,67.90504421410677,ns/nc,oposicion
+2025-10-07,186,Entre Ríos,masculino,26.0,terciario,2,39.65325256604396,en blanco,en blanco
+2025-10-09,187,Chaco,masculino,28.0,terciario,6,55.32196455305879,candidato,indeciso
+2025-10-15,188,Jujuy,femenino,21.0,terciario,6,51.616447361578814,indeciso,indeciso
+2025-10-15,189,Misiones,femenino,49.0,universitario,5,49.77213419475052,candidato,ns/nc
+2025-10-24,190,Entre Ríos,femenino,51.0,universitario,3,68.85431630358995,indeciso,en blanco
+2025-10-13,191,Santa Cruz,femenino,49.0,secundario,4,63.921297083259276,,candidato
+2025-10-22,192,La Rioja,masculino,44.0,terciario,6,,oposicion,ns/nc
+2025-10-23,193,Mendoza,masculino,38.0,terciario,6,55.09945334442121,oposicion,oposicion
+2025-10-29,194,Santiago del Estero,femenino,32.0,universitario,5,70.35478372545236,ns/nc,oposicion
+2025-10-19,195,La Pampa,masculino,29.0,secundario,3,,en blanco,candidato
+2025-10-12,196,Formosa,masculino,64.0,primario,4,28.976348818431255,oposicion,indeciso
+2025-10-28,197,Río Negro,femenino,52.0,terciario,6,-3.584946060858357,en blanco,en blanco
+2025-10-24,198,San Luis,femenino,41.0,universitario,4,30.1018291971329,candidato,ns/nc
+2025-10-05,199,Corrientes,masculino,18.0,primario,3,48.15756345205987,ns/nc,ns/nc
+2025-10-15,200,Entre Ríos,femenino,42.0,secundario,1,50.32773524302548,oposicion,en blanco
+2025-10-04,201,Tucumán,masculino,55.0,terciario,4,60.74969723909695,ns/nc,oposicion
+2025-10-19,202,San Juan,femenino,24.0,universitario,1,65.73228047184095,candidato,ns/nc
+2025-10-02,203,Neuquén,masculino,35.0,primario,4,28.655765101443265,en blanco,candidato
+2025-10-30,204,La Pampa,femenino,1.0,universitario,5,87.07215637299365,ns/nc,oposicion
+2025-10-10,205,Santiago del Estero,masculino,,primario,5,59.97271251622776,indeciso,ns/nc
+2025-10-17,206,Santiago del Estero,femenino,61.0,terciario,4,,oposicion,candidato
+2025-10-18,207,Córdoba,femenino,43.0,terciario,1,57.66249989059074,,indeciso
+2025-10-02,208,Jujuy,femenino,34.0,secundario,2,19.957331577402122,oposicion,oposicion
+2025-10-21,209,Catamarca,masculino,35.0,secundario,2,34.35850018176385,oposicion,en blanco
+2025-10-13,210,Misiones,femenino,38.0,secundario,3,95.34133597105651,candidato,en blanco
+2025-10-15,211,San Luis,femenino,48.0,universitario,1,70.85078502101511,ns/nc,candidato
+2025-10-04,212,Río Negro,femenino,60.0,secundario,4,65.07251043711852,oposicion,ns/nc
+2025-10-27,213,Buenos Aires,femenino,50.0,terciario,1,69.8656462052909,candidato,oposicion
+2025-10-28,214,Formosa,masculino,26.0,universitario,2,66.04107781396935,oposicion,oposicion
+2025-10-28,215,Santa Fe,masculino,37.0,secundario,1,71.41653579916193,ns/nc,indeciso
+2025-10-15,216,La Pampa,femenino,31.0,secundario,2,-3.8071352858742245,oposicion,candidato
+2025-10-04,217,La Rioja,femenino,30.0,primario,3,45.57709389979315,candidato,ns/nc
+2025-10-30,218,Chaco,femenino,30.0,secundario,3,25.26858377684093,,oposicion
+2025-10-29,219,Tucumán,femenino,76.0,terciario,4,63.84905568420643,ns/nc,en blanco
+2025-10-05,220,Buenos Aires,masculino,48.0,universitario,2,28.940820039273216,en blanco,en blanco
+2025-10-09,221,Santa Fe,masculino,48.0,terciario,6,57.88443298854016,candidato,indeciso
+2025-10-04,222,Chaco,femenino,44.0,terciario,3,60.88155549483357,oposicion,indeciso
+2025-10-08,223,Tierra del Fuego,masculino,37.0,secundario,3,57.83241598735151,en blanco,oposicion
+2025-10-03,224,Tucumán,femenino,35.0,secundario,1,62.62467052213211,candidato,oposicion
+2025-10-06,225,Santa Cruz,masculino,24.0,universitario,4,55.08312007924009,oposicion,ns/nc
+2025-10-04,226,Corrientes,masculino,37.0,primario,4,68.41458747844473,indeciso,candidato
+2025-10-02,227,Neuquén,masculino,57.0,primario,2,,indeciso,candidato
+2025-10-25,228,San Luis,femenino,15.0,terciario,5,65.49861391270969,en blanco,en blanco
+2025-10-15,229,La Rioja,femenino,36.0,secundario,4,66.69878238322343,oposicion,oposicion
+2025-10-23,230,Formosa,femenino,,primario,4,7.210189162897137,oposicion,oposicion
+2025-10-26,231,Catamarca,masculino,32.0,universitario,1,35.890446771497196,ns/nc,candidato
+2025-10-03,232,Chaco,femenino,32.0,universitario,5,58.23154150988616,candidato,oposicion
+2025-10-11,233,Santa Fe,femenino,39.0,universitario,5,59.84240391194275,indeciso,oposicion
+2025-10-14,234,La Rioja,femenino,39.0,secundario,1,43.26614593262876,indeciso,indeciso
+2025-10-08,235,Entre Ríos,masculino,41.0,primario,2,39.81712378894092,candidato,en blanco
+2025-10-15,236,Salta,masculino,55.0,,4,16.978776175618364,indeciso,en blanco
+2025-10-20,237,Chaco,masculino,34.0,terciario,4,62.71361968759679,candidato,en blanco
+2025-10-31,238,Santa Cruz,masculino,45.0,primario,4,92.48424049052612,indeciso,en blanco
+2025-10-18,239,Neuquén,femenino,40.0,,1,84.64403216531963,indeciso,indeciso
+2025-10-09,240,Corrientes,femenino,17.0,terciario,6,51.77512571430966,,indeciso
+2025-10-26,241,Santiago del Estero,masculino,30.0,terciario,4,94.0060268323652,candidato,indeciso
+2025-10-28,242,Chubut,femenino,16.0,primario,2,125.0,en blanco,ns/nc
+2025-10-19,243,San Juan,masculino,39.0,secundario,6,,en blanco,oposicion
+2025-10-16,244,Jujuy,femenino,34.0,universitario,1,53.121478796822046,indeciso,ns/nc
+2025-10-22,245,Catamarca,masculino,54.0,terciario,6,54.70789007598363,indeciso,candidato
+2025-10-23,246,Santa Cruz,masculino,45.0,terciario,5,53.0608447252954,en blanco,indeciso
+2025-10-01,247,Buenos Aires,femenino,38.0,secundario,1,101.93840682710366,en blanco,indeciso
+2025-10-02,248,Mendoza,masculino,36.0,terciario,5,39.5625303153102,ns/nc,oposicion
+2025-10-24,249,Entre Ríos,femenino,61.0,secundario,5,48.2470368540052,ns/nc,ns/nc
+2025-10-14,250,Corrientes,femenino,65.0,terciario,4,46.390240837117574,indeciso,indeciso
+2025-10-23,251,Santa Fe,masculino,61.0,,5,46.08719219526475,oposicion,ns/nc
+2025-10-19,252,Jujuy,femenino,49.0,universitario,1,62.2835333504198,en blanco,ns/nc
+2025-10-08,253,Corrientes,femenino,46.0,primario,1,79.51057605833714,ns/nc,oposicion
+2025-10-15,254,Neuquén,femenino,70.0,secundario,1,77.85133615427284,ns/nc,oposicion
+2025-10-11,255,Jujuy,masculino,41.0,terciario,2,66.67974385903294,ns/nc,indeciso
+2025-10-06,256,Chaco,masculino,55.0,terciario,1,,en blanco,ns/nc
+2025-10-25,257,San Luis,masculino,39.0,primario,6,69.77964483831151,ns/nc,candidato
+2025-10-29,258,Formosa,femenino,20.0,secundario,4,25.435426303316625,ns/nc,indeciso
+2025-10-20,259,Entre Ríos,femenino,,terciario,1,29.513260809312346,candidato,en blanco
+2025-10-13,260,Tucumán,masculino,34.0,primario,1,95.38824110753514,ns/nc,indeciso
+2025-10-11,261,Santa Fe,masculino,30.0,universitario,1,30.113627590920515,ns/nc,ns/nc
+2025-10-10,262,San Luis,masculino,60.0,terciario,1,56.98227778983297,oposicion,ns/nc
+2025-10-14,263,La Pampa,masculino,38.0,secundario,2,154.0,oposicion,candidato
+2025-10-06,264,Río Negro,femenino,29.0,terciario,5,,candidato,indeciso
+2025-10-07,265,San Juan,femenino,39.0,universitario,1,33.421093537030785,candidato,en blanco
+2025-10-21,266,Corrientes,masculino,,primario,4,47.44301262423436,en blanco,ns/nc
+2025-10-29,267,Entre Ríos,masculino,47.0,universitario,1,74.21563444665998,ns/nc,oposicion
+2025-10-25,268,Buenos Aires,masculino,46.0,,6,77.83254137603984,candidato,indeciso
+2025-10-09,269,Santa Cruz,femenino,1.0,secundario,2,55.70213528832705,oposicion,ns/nc
+2025-10-14,270,Tucumán,masculino,52.0,terciario,5,52.10248064664942,ns/nc,ns/nc
+2025-10-10,271,Neuquén,masculino,52.0,primario,6,14.671978110624636,ns/nc,ns/nc
+2025-10-07,272,Catamarca,femenino,57.0,secundario,5,27.434838583678378,,en blanco
+2025-10-29,273,San Juan,femenino,38.0,primario,4,48.784696710980654,oposicion,ns/nc
+2025-10-01,274,Chaco,masculino,41.0,primario,2,57.439563381211045,en blanco,indeciso
+2025-10-16,275,Santa Cruz,femenino,43.0,secundario,5,43.60471005941967,candidato,en blanco
+2025-10-20,276,Salta,masculino,107.0,universitario,4,78.60480848206798,oposicion,ns/nc
+2025-10-08,277,Salta,femenino,42.0,primario,3,57.88461585715582,ns/nc,oposicion
+2025-10-21,278,San Luis,femenino,41.0,universitario,3,62.54446205030257,candidato,ns/nc
+2025-10-23,279,La Pampa,femenino,43.0,primario,3,82.14217067933869,indeciso,oposicion
+2025-10-31,280,Misiones,masculino,45.0,universitario,5,51.07750178908715,en blanco,en blanco
+2025-10-26,281,Tierra del Fuego,femenino,29.0,primario,3,35.46289333869947,ns/nc,oposicion
+2025-10-07,282,Formosa,masculino,,universitario,3,89.0413012908015,en blanco,candidato
+2025-10-02,283,La Pampa,femenino,32.0,universitario,3,66.77893570075385,ns/nc,indeciso
+2025-10-31,284,Corrientes,femenino,4.0,universitario,1,64.60388376739978,indeciso,candidato
+2025-10-16,285,Santa Fe,masculino,32.0,terciario,6,48.73524329407786,,indeciso
+2025-10-31,286,Chubut,femenino,18.0,terciario,3,40.1945571835313,candidato,indeciso
+2025-10-06,287,Tucumán,femenino,32.0,primario,2,63.98671647647216,oposicion,candidato
+2025-10-25,288,Chaco,femenino,51.0,secundario,1,72.36833953106103,ns/nc,en blanco
+2025-10-29,289,Santa Cruz,masculino,59.0,secundario,3,44.91374042158456,oposicion,indeciso
+2025-10-20,290,Tierra del Fuego,masculino,34.0,,1,66.09870382558981,indeciso,indeciso
+2025-10-19,291,Misiones,masculino,60.0,,6,58.988806493563146,indeciso,ns/nc
+2025-10-22,292,Córdoba,femenino,36.0,secundario,6,40.99788383863331,indeciso,ns/nc
+2025-10-10,293,Entre Ríos,femenino,44.0,secundario,6,51.47807083861755,oposicion,en blanco
+2025-10-30,294,Corrientes,femenino,48.0,secundario,3,52.59299571945925,candidato,candidato
+2025-10-21,295,Entre Ríos,femenino,46.0,secundario,6,43.42655475361473,en blanco,ns/nc
+2025-10-20,296,Misiones,masculino,49.0,primario,3,,oposicion,en blanco
+2025-10-11,297,Formosa,masculino,29.0,terciario,4,18.352412400857176,oposicion,ns/nc
+2025-10-13,298,Córdoba,masculino,42.0,primario,3,40.694893141632335,ns/nc,candidato
+2025-10-25,299,Tierra del Fuego,femenino,51.0,,6,67.9721912404741,candidato,candidato
+2025-10-16,300,Santa Fe,masculino,28.0,terciario,6,92.60319368443666,indeciso,candidato
+2025-10-08,301,Tucumán,masculino,,terciario,3,52.43063796085627,en blanco,candidato
+2025-10-03,302,Río Negro,masculino,33.0,primario,2,19.8177659640545,indeciso,indeciso
+2025-10-23,303,Santiago del Estero,femenino,47.0,secundario,1,,indeciso,oposicion
+2025-10-19,304,Jujuy,femenino,40.0,universitario,4,27.00280876957082,indeciso,ns/nc
+2025-10-21,305,Santa Fe,masculino,41.0,terciario,6,35.827103770027,indeciso,ns/nc
+2025-10-14,306,Córdoba,femenino,44.0,terciario,3,52.929405845767995,indeciso,ns/nc
+2025-10-25,307,Río Negro,masculino,41.0,terciario,1,91.64435508686847,candidato,oposicion
+2025-10-26,308,La Pampa,femenino,7.0,universitario,1,83.14121360154985,en blanco,en blanco
+2025-10-29,309,Tierra del Fuego,femenino,54.0,secundario,2,47.91750079045736,indeciso,ns/nc
+2025-10-16,310,Córdoba,masculino,39.0,universitario,5,32.60216183025524,candidato,oposicion
+2025-10-16,311,San Luis,masculino,31.0,secundario,2,58.707929324073284,candidato,indeciso
+2025-10-08,312,San Luis,femenino,72.0,universitario,3,39.28567509562626,ns/nc,candidato
+2025-10-12,313,La Rioja,masculino,38.0,terciario,1,53.619909864125674,indeciso,indeciso
+2025-10-13,314,San Juan,masculino,34.0,terciario,2,71.4077793263583,oposicion,ns/nc
+2025-10-10,315,La Rioja,masculino,,primario,2,59.20178230583497,oposicion,indeciso
+2025-10-17,316,Tierra del Fuego,masculino,65.0,universitario,5,61.969805386265286,indeciso,ns/nc
+2025-10-19,317,Corrientes,masculino,46.0,universitario,3,,oposicion,en blanco
+2025-10-13,318,Entre Ríos,femenino,37.0,primario,4,75.50894646799864,oposicion,indeciso
+2025-10-16,319,Formosa,femenino,41.0,,3,62.89920000369151,oposicion,candidato
+2025-10-12,320,Neuquén,femenino,19.0,primario,5,47.36045414777587,indeciso,indeciso
+2025-10-26,321,Río Negro,femenino,56.0,universitario,4,79.077017267407,oposicion,en blanco
+2025-10-23,322,Catamarca,femenino,34.0,terciario,3,35.860994307692835,oposicion,indeciso
+2025-10-23,323,Chaco,femenino,27.0,terciario,1,78.63533468747795,indeciso,candidato
+2025-10-14,324,Río Negro,masculino,40.0,primario,3,43.664464421175886,indeciso,oposicion
+2025-10-12,325,Formosa,femenino,27.0,secundario,1,67.34146680690681,ns/nc,candidato
+2025-10-05,326,Catamarca,femenino,51.0,secundario,5,45.34961959416728,ns/nc,ns/nc
+2025-10-06,327,Misiones,femenino,34.0,secundario,4,49.494461972728594,indeciso,candidato
+2025-10-25,328,Chubut,masculino,31.0,primario,4,81.53272834478223,oposicion,candidato
+2025-10-09,329,Santa Fe,femenino,30.0,secundario,5,100.52726717112225,oposicion,candidato
+2025-10-26,330,Catamarca,femenino,18.0,universitario,1,20.545488278715176,ns/nc,ns/nc
+2025-10-24,331,La Rioja,masculino,46.0,universitario,1,3.812822822003888,en blanco,ns/nc
+2025-10-12,332,Formosa,masculino,69.0,terciario,4,68.58977044459573,oposicion,candidato
+2025-10-09,333,San Juan,femenino,54.0,primario,1,90.55869575734178,ns/nc,ns/nc
+2025-10-30,334,Catamarca,femenino,48.0,primario,5,98.0286224189382,oposicion,en blanco
+2025-10-01,335,Santa Fe,masculino,21.0,terciario,3,56.79982142996232,candidato,ns/nc
+2025-10-13,336,Misiones,masculino,46.0,secundario,1,85.28022333028554,ns/nc,oposicion
+2025-10-04,337,Formosa,masculino,28.0,universitario,6,43.93563820130929,indeciso,en blanco
+2025-10-15,338,Mendoza,masculino,52.0,primario,4,51.56646671742172,candidato,candidato
+2025-10-23,339,Mendoza,femenino,,secundario,4,59.50912913862827,,en blanco
+2025-10-18,340,Santiago del Estero,masculino,96.0,primario,3,31.77913984994893,candidato,indeciso
+2025-10-22,341,La Pampa,femenino,46.0,secundario,1,64.85286721128736,candidato,candidato
+2025-10-25,342,Jujuy,masculino,32.0,secundario,6,48.38325306114767,candidato,ns/nc
+2025-10-24,343,Mendoza,masculino,53.0,terciario,4,30.98702785851294,indeciso,ns/nc
+2025-10-07,344,Tierra del Fuego,femenino,28.0,terciario,3,86.10943011014479,en blanco,en blanco
+2025-10-19,345,Corrientes,femenino,28.0,terciario,2,53.62481671870577,en blanco,indeciso
+2025-10-12,346,La Pampa,femenino,60.0,primario,2,64.39162578332531,,en blanco
+2025-10-03,347,Tucumán,masculino,24.0,primario,6,15.376994629061336,ns/nc,ns/nc
+2025-10-03,348,Buenos Aires,masculino,62.0,terciario,6,44.44847831127656,en blanco,candidato
+2025-10-24,349,Entre Ríos,masculino,55.0,primario,2,58.56043412810652,ns/nc,en blanco
+2025-10-04,350,Buenos Aires,femenino,,universitario,3,,indeciso,en blanco
+2025-10-03,351,Catamarca,masculino,12.0,primario,2,47.77926813909829,oposicion,indeciso
+2025-10-21,352,Santiago del Estero,femenino,29.0,primario,2,40.899996212068,ns/nc,oposicion
+2025-10-11,353,Misiones,femenino,24.0,primario,2,47.007584391471525,ns/nc,candidato
+2025-10-31,354,Chaco,femenino,26.0,universitario,5,49.2589898447539,oposicion,candidato
+2025-10-16,355,Corrientes,masculino,58.0,secundario,2,64.75326118799725,ns/nc,en blanco
+2025-10-25,356,Neuquén,masculino,,terciario,4,44.61144311183028,en blanco,en blanco
+2025-10-17,357,Corrientes,femenino,37.0,terciario,3,54.30144192286527,ns/nc,en blanco
+2025-10-29,358,Jujuy,masculino,59.0,primario,4,53.05658978755743,en blanco,candidato
+2025-10-30,359,Formosa,masculino,39.0,primario,3,86.19082496196354,candidato,oposicion
+2025-10-02,360,Entre Ríos,femenino,20.0,primario,5,32.58459036943239,indeciso,oposicion
+2025-10-20,361,Santa Fe,masculino,54.0,universitario,6,69.06045736050163,ns/nc,ns/nc
+2025-10-28,362,Santa Cruz,femenino,66.0,primario,5,41.29767430869828,oposicion,en blanco
+2025-10-25,363,Corrientes,femenino,66.0,secundario,6,46.792671774427134,en blanco,ns/nc
+2025-10-03,364,Chubut,masculino,34.0,primario,3,58.01799452661869,ns/nc,indeciso
+2025-10-27,365,Río Negro,femenino,29.0,universitario,2,84.3194239911282,ns/nc,candidato
+2025-10-10,366,Santiago del Estero,femenino,43.0,universitario,5,49.09898470933696,indeciso,oposicion
+2025-10-29,367,Chubut,femenino,51.0,secundario,3,71.00273658250087,indeciso,ns/nc
+2025-10-18,368,Catamarca,femenino,15.0,universitario,2,58.96661332178227,ns/nc,ns/nc
+2025-10-13,369,San Luis,femenino,57.0,,6,50.298508662028844,ns/nc,indeciso
+2025-10-31,370,Mendoza,femenino,48.0,terciario,2,60.975862714926635,indeciso,ns/nc
+2025-10-15,371,Tierra del Fuego,masculino,46.0,primario,5,37.73150779685018,oposicion,oposicion
+2025-10-01,372,Misiones,femenino,43.0,secundario,4,68.1977006515308,candidato,candidato
+2025-10-11,373,La Pampa,femenino,44.0,primario,1,45.330868999247414,candidato,candidato
+2025-10-18,374,San Luis,masculino,39.0,,5,77.19477233197154,candidato,ns/nc
+2025-10-15,375,Santa Cruz,femenino,,universitario,5,81.95722387721985,indeciso,candidato
+2025-10-24,376,Tierra del Fuego,masculino,57.0,terciario,5,51.25522445786628,ns/nc,oposicion
+2025-10-27,377,Buenos Aires,masculino,36.0,primario,3,68.36611701356371,indeciso,candidato
+2025-10-25,378,Catamarca,femenino,27.0,universitario,6,49.07757656336641,candidato,ns/nc
+2025-10-23,379,Chubut,femenino,23.0,terciario,2,63.923380950400706,en blanco,candidato
+2025-10-18,380,Buenos Aires,masculino,24.0,secundario,2,,indeciso,oposicion
+2025-10-27,381,Jujuy,masculino,96.0,terciario,4,73.78489605229645,indeciso,candidato
+2025-10-12,382,Corrientes,masculino,58.0,terciario,5,60.00393539217628,ns/nc,ns/nc
+2025-10-24,383,Jujuy,masculino,,primario,1,33.44974466140894,indeciso,oposicion
+2025-10-04,384,Buenos Aires,masculino,32.0,terciario,6,86.37081274136398,indeciso,candidato
+2025-10-17,385,Entre Ríos,masculino,,secundario,6,52.10281558238241,oposicion,oposicion
+2025-10-28,386,La Pampa,femenino,44.0,universitario,6,80.36539941092107,oposicion,en blanco
+2025-10-13,387,Chubut,femenino,33.0,universitario,6,35.76552535670102,indeciso,en blanco
+2025-10-15,388,Tucumán,femenino,49.0,primario,1,20.429854346185977,ns/nc,en blanco
+2025-10-01,389,Tierra del Fuego,femenino,61.0,terciario,1,90.71663163338935,oposicion,ns/nc
+2025-10-15,390,Río Negro,femenino,51.0,universitario,3,,ns/nc,oposicion
+2025-10-26,391,Corrientes,femenino,28.0,primario,6,44.50281243926405,oposicion,ns/nc
+2025-10-06,392,Córdoba,masculino,52.0,universitario,4,61.02448497872574,candidato,ns/nc
+2025-10-06,393,Buenos Aires,masculino,-1.0,primario,1,37.49180658913262,en blanco,ns/nc
+2025-10-19,394,Santa Cruz,masculino,8.0,primario,1,,candidato,candidato
+2025-10-05,395,San Juan,masculino,50.0,secundario,1,63.38994356855162,oposicion,oposicion
+2025-10-03,396,Salta,femenino,47.0,primario,3,149.0,,ns/nc
+2025-10-14,397,Catamarca,femenino,54.0,terciario,1,53.953930324560226,candidato,indeciso
+2025-10-12,398,Buenos Aires,femenino,,primario,1,,en blanco,candidato
+2025-10-18,399,Catamarca,femenino,40.0,universitario,6,36.89597255131264,candidato,ns/nc
+2025-10-29,400,Chaco,femenino,40.0,primario,5,48.18396058768672,oposicion,ns/nc
+2025-10-27,401,Buenos Aires,masculino,35.0,primario,4,69.74809323037938,oposicion,indeciso
+2025-10-02,402,Corrientes,masculino,38.0,terciario,2,68.08443413564589,indeciso,ns/nc
+2025-10-16,403,Salta,femenino,50.0,primario,4,21.710625061071163,indeciso,candidato
+2025-10-10,404,Tierra del Fuego,femenino,64.0,terciario,2,44.20976201546305,candidato,en blanco
+2025-10-30,405,Salta,masculino,46.0,secundario,6,86.06211291586426,candidato,candidato
+2025-10-06,406,Chaco,masculino,29.0,secundario,2,59.29523192981155,ns/nc,indeciso
+2025-10-19,407,Santa Fe,masculino,25.0,universitario,6,83.7325935682382,oposicion,ns/nc
+2025-10-27,408,Jujuy,masculino,65.0,terciario,1,91.43658462349971,oposicion,oposicion
+2025-10-27,409,Córdoba,femenino,31.0,,6,62.23887336127129,en blanco,candidato
+2025-10-03,410,Formosa,masculino,58.0,primario,3,39.43121887804813,candidato,oposicion
+2025-10-03,411,Santa Cruz,masculino,56.0,terciario,4,45.13127715053645,indeciso,oposicion
+2025-10-22,412,Neuquén,masculino,54.0,secundario,4,81.42311301145618,en blanco,ns/nc
+2025-10-13,413,Neuquén,femenino,23.0,primario,1,24.470587563068463,en blanco,indeciso
+2025-10-18,414,Misiones,masculino,56.0,secundario,6,44.84473636041001,ns/nc,ns/nc
+2025-10-23,415,Jujuy,femenino,32.0,secundario,2,59.62747714449755,ns/nc,en blanco
+2025-10-11,416,Córdoba,femenino,23.0,primario,3,,ns/nc,indeciso
+2025-10-12,417,Misiones,masculino,27.0,primario,6,81.84641226659255,en blanco,ns/nc
+2025-10-21,418,Córdoba,femenino,56.0,universitario,5,91.33581248515299,en blanco,indeciso
+2025-10-16,419,Mendoza,femenino,72.0,terciario,1,81.63649867116193,indeciso,candidato
+2025-10-24,420,Río Negro,femenino,37.0,universitario,4,24.47789360879029,candidato,oposicion
+2025-10-23,421,Misiones,masculino,17.0,primario,5,32.09215744554163,ns/nc,en blanco
+2025-10-24,422,Mendoza,masculino,56.0,terciario,3,32.64898344638952,en blanco,en blanco
+2025-10-30,423,La Pampa,masculino,23.0,terciario,4,38.43788373395492,candidato,candidato
+2025-10-02,424,Jujuy,masculino,17.0,primario,6,-0.9980883144631321,indeciso,en blanco
+2025-10-15,425,Formosa,masculino,28.0,terciario,1,23.05118260691282,candidato,ns/nc
+2025-10-16,426,Catamarca,masculino,28.0,secundario,6,58.76721075380052,oposicion,candidato
+2025-10-15,427,Buenos Aires,masculino,29.0,universitario,6,53.67622355065081,oposicion,ns/nc
+2025-10-16,428,Chubut,masculino,28.0,terciario,6,39.200588744908416,ns/nc,indeciso
+2025-10-26,429,Corrientes,masculino,21.0,primario,2,27.430989374551295,oposicion,oposicion
+2025-10-04,430,Catamarca,masculino,54.0,primario,6,76.12995506187447,,candidato
+2025-10-05,431,Misiones,masculino,45.0,,1,41.87467573365872,oposicion,oposicion
+2025-10-21,432,Neuquén,femenino,27.0,terciario,2,65.54457871443147,en blanco,oposicion
+2025-10-24,433,Río Negro,masculino,36.0,secundario,1,61.03717808634669,indeciso,indeciso
+2025-10-19,434,Córdoba,masculino,50.0,terciario,6,60.570288201615995,indeciso,ns/nc
+2025-10-19,435,Neuquén,femenino,31.0,primario,6,51.763196337425214,en blanco,ns/nc
+2025-10-23,436,San Luis,masculino,57.0,terciario,5,62.9807216889402,en blanco,candidato
+2025-10-24,437,Misiones,femenino,51.0,primario,1,70.79593467748433,oposicion,candidato
+2025-10-22,438,Tucumán,femenino,,universitario,2,,ns/nc,oposicion
+2025-10-05,439,Mendoza,masculino,27.0,secundario,1,57.68305924268875,indeciso,candidato
+2025-10-01,440,Santiago del Estero,masculino,35.0,primario,4,74.73904374500134,en blanco,en blanco
+2025-10-13,441,Jujuy,femenino,49.0,primario,4,30.255704712583945,ns/nc,candidato
+2025-10-22,442,Mendoza,masculino,32.0,secundario,5,76.32263463576324,candidato,oposicion
+2025-10-07,443,Catamarca,femenino,,universitario,3,19.489233072321433,oposicion,candidato
+2025-10-12,444,Jujuy,masculino,23.0,terciario,6,68.49225818173304,candidato,indeciso
+2025-10-21,445,Misiones,masculino,62.0,secundario,6,37.63025384099012,oposicion,candidato
+2025-10-28,446,Río Negro,femenino,33.0,primario,5,58.49039537881095,en blanco,ns/nc
+2025-10-10,447,Formosa,femenino,33.0,primario,3,56.46581821732166,en blanco,indeciso
+2025-10-25,448,Misiones,femenino,2.0,primario,4,42.289709196850126,indeciso,indeciso
+2025-10-15,449,Santa Cruz,masculino,52.0,universitario,6,65.97358587845642,indeciso,indeciso
+2025-10-01,450,Entre Ríos,femenino,50.0,universitario,6,54.69912165991875,en blanco,en blanco
+2025-10-13,451,Misiones,femenino,44.0,primario,3,46.18460083461813,ns/nc,en blanco
+2025-10-27,452,Santiago del Estero,masculino,45.0,secundario,5,79.88949321963946,candidato,ns/nc
+2025-10-18,453,Río Negro,masculino,,,5,,oposicion,oposicion
+2025-10-19,454,Buenos Aires,masculino,42.0,universitario,1,42.769654855497556,candidato,indeciso
+2025-10-14,455,Salta,masculino,22.0,primario,1,40.98486392631982,ns/nc,en blanco
+2025-10-06,456,La Rioja,masculino,34.0,secundario,2,80.05066154377516,indeciso,indeciso
+2025-10-06,457,Entre Ríos,masculino,89.0,secundario,3,44.43899914455525,candidato,en blanco
+2025-10-09,458,Santiago del Estero,masculino,1.0,universitario,6,35.89209648880887,candidato,candidato
+2025-10-12,459,Mendoza,femenino,-11.0,primario,2,45.543677662749346,ns/nc,ns/nc
+2025-10-30,460,Santa Cruz,femenino,42.0,secundario,2,52.59228682518954,oposicion,candidato
+2025-10-23,461,Santa Fe,masculino,14.0,secundario,6,,indeciso,candidato
+2025-10-29,462,Chubut,masculino,35.0,universitario,1,88.80593973906537,en blanco,candidato
+2025-10-01,463,Córdoba,femenino,36.0,universitario,1,33.761457710774756,en blanco,en blanco
+2025-10-27,464,La Rioja,femenino,41.0,universitario,4,0.5646739758910257,candidato,candidato
+2025-10-15,465,Chaco,masculino,36.0,universitario,3,56.661293290619994,candidato,candidato
+2025-10-27,466,Entre Ríos,femenino,47.0,universitario,6,50.25833112124391,ns/nc,en blanco
+2025-10-02,467,Entre Ríos,femenino,28.0,secundario,5,65.86618229297245,candidato,oposicion
+2025-10-18,468,Jujuy,femenino,37.0,primario,6,81.98152496883563,oposicion,en blanco
+2025-10-12,469,Río Negro,masculino,25.0,universitario,1,69.71320744057417,indeciso,candidato
+2025-10-30,470,Chaco,femenino,35.0,terciario,5,21.811999088612964,indeciso,ns/nc
+2025-10-12,471,San Luis,masculino,,secundario,4,50.99667042383959,indeciso,ns/nc
+2025-10-25,472,Tierra del Fuego,masculino,58.0,primario,1,61.12607890482859,en blanco,indeciso
+2025-10-10,473,Neuquén,masculino,45.0,secundario,4,72.37236250865237,ns/nc,ns/nc
+2025-10-09,474,Tierra del Fuego,masculino,24.0,terciario,5,77.11275294245529,ns/nc,indeciso
+2025-10-25,475,Tucumán,masculino,59.0,secundario,5,,candidato,en blanco
+2025-10-23,476,Río Negro,masculino,45.0,terciario,5,69.39759978966131,,indeciso
+2025-10-23,477,Santa Fe,femenino,71.0,secundario,1,,indeciso,oposicion
+2025-10-07,478,Salta,femenino,,primario,1,59.024809726457214,ns/nc,en blanco
+2025-10-15,479,Chubut,femenino,22.0,terciario,6,57.711403880029486,en blanco,indeciso
+2025-10-26,480,Chubut,masculino,71.0,universitario,4,82.94751002435163,oposicion,en blanco
+2025-10-03,481,Tucumán,femenino,36.0,universitario,3,41.30234987224185,oposicion,oposicion
+2025-10-16,482,Catamarca,femenino,19.0,terciario,5,70.69321066595906,ns/nc,oposicion
+2025-10-20,483,Corrientes,femenino,49.0,primario,5,5.112257807081548,ns/nc,ns/nc
+2025-10-12,484,Formosa,femenino,38.0,primario,4,64.51732454794114,candidato,oposicion
+2025-10-20,485,Río Negro,masculino,41.0,primario,3,59.92891341846957,indeciso,indeciso
+2025-10-23,486,Tucumán,femenino,63.0,primario,1,82.78762865598279,candidato,candidato
+2025-10-09,487,San Juan,femenino,39.0,universitario,6,71.32649713997111,candidato,indeciso
+2025-10-01,488,Chaco,masculino,56.0,secundario,2,15.116944541641914,indeciso,candidato
+2025-10-19,489,Tierra del Fuego,masculino,39.0,universitario,2,73.79871317692725,oposicion,indeciso
+2025-10-01,490,Neuquén,masculino,48.0,universitario,6,83.7506611178494,oposicion,oposicion
+2025-10-20,491,San Luis,femenino,55.0,terciario,4,41.45757085326628,en blanco,ns/nc
+2025-10-03,492,Chaco,femenino,34.0,primario,2,70.06807461918802,oposicion,ns/nc
+2025-10-16,493,Tucumán,masculino,38.0,primario,3,73.04145405725245,candidato,candidato
+2025-10-24,494,Santa Cruz,masculino,43.0,terciario,1,65.71270236109105,candidato,ns/nc
+2025-10-09,495,Chaco,masculino,45.0,primario,6,120.60796831656616,en blanco,ns/nc
+2025-10-16,496,Corrientes,femenino,52.0,universitario,4,37.991325180793694,candidato,candidato
+2025-10-12,497,Corrientes,masculino,60.0,universitario,3,45.88235721656185,ns/nc,ns/nc
+2025-10-20,498,Catamarca,femenino,60.0,secundario,3,72.99298227414002,ns/nc,indeciso
+2025-10-11,499,Chaco,masculino,34.0,terciario,4,69.5109042564945,candidato,en blanco
+2025-10-14,500,Salta,masculino,61.0,terciario,6,48.784867592251295,oposicion,en blanco
+2025-10-16,501,La Rioja,masculino,20.0,primario,2,65.03806641931142,indeciso,indeciso
+2025-10-09,502,Neuquén,masculino,64.0,secundario,3,81.49015359169552,,en blanco
+2025-10-29,503,San Juan,femenino,37.0,secundario,3,73.23032559173035,oposicion,indeciso
+2025-10-07,504,Santa Fe,femenino,28.0,secundario,4,33.81455712719834,candidato,oposicion
+2025-10-05,505,La Rioja,femenino,67.0,secundario,5,67.99489085460026,ns/nc,ns/nc
+2025-10-19,506,San Luis,masculino,37.0,universitario,5,48.6433497176122,oposicion,indeciso
+2025-10-08,507,Mendoza,masculino,32.0,primario,2,30.381481080813476,,candidato
+2025-10-05,508,Chubut,femenino,,terciario,3,23.14664401974612,indeciso,ns/nc
+2025-10-01,509,San Juan,masculino,36.0,terciario,5,69.1761836803545,ns/nc,oposicion
+2025-10-06,510,San Luis,femenino,41.0,primario,6,103.07033916796729,oposicion,ns/nc
+2025-10-17,511,Entre Ríos,masculino,64.0,terciario,4,45.04241842391146,oposicion,indeciso
+2025-10-23,512,Chubut,masculino,46.0,primario,3,65.73194322787104,oposicion,indeciso
+2025-10-18,513,Tucumán,femenino,29.0,secundario,2,49.21877151249698,oposicion,oposicion
+2025-10-02,514,San Juan,masculino,39.0,secundario,5,44.28698743463191,candidato,en blanco
+2025-10-16,515,Santa Fe,masculino,20.0,terciario,1,81.11394273345032,en blanco,indeciso
+2025-10-22,516,Chaco,femenino,48.0,terciario,5,45.809817366182116,oposicion,en blanco
+2025-10-02,517,La Rioja,femenino,36.0,primario,5,69.81960990280083,en blanco,indeciso
+2025-10-02,518,Tucumán,masculino,71.0,universitario,3,34.25167384200729,candidato,oposicion
+2025-10-21,519,Chaco,masculino,,universitario,3,60.84289458049174,en blanco,candidato
+2025-10-25,520,La Pampa,masculino,36.0,universitario,1,31.195180573403594,en blanco,oposicion
+2025-10-01,521,San Juan,masculino,24.0,terciario,3,44.690171529339466,candidato,oposicion
+2025-10-02,522,Córdoba,masculino,31.0,terciario,4,76.41219528373504,candidato,ns/nc
+2025-10-31,523,Misiones,masculino,43.0,terciario,5,25.02987370800749,candidato,ns/nc
+2025-10-09,524,Santa Fe,femenino,15.0,secundario,3,36.42126558687657,indeciso,candidato
+2025-10-28,525,Córdoba,masculino,47.0,universitario,6,51.251478500042744,oposicion,oposicion
+2025-10-30,526,La Pampa,masculino,33.0,primario,3,62.90938077540219,indeciso,ns/nc
+2025-10-28,527,Misiones,masculino,68.0,secundario,2,59.13679266811403,oposicion,oposicion
+2025-10-13,528,Río Negro,masculino,56.0,secundario,6,52.64479374069241,candidato,indeciso
+2025-10-16,529,Formosa,masculino,50.0,terciario,3,17.635483282391768,en blanco,candidato
+2025-10-02,530,Neuquén,femenino,38.0,,5,53.33828712591723,en blanco,ns/nc
+2025-10-31,531,Río Negro,masculino,60.0,secundario,1,19.132774151058968,ns/nc,ns/nc
+2025-10-23,532,Catamarca,femenino,20.0,universitario,6,47.86112252174975,candidato,en blanco
+2025-10-30,533,Buenos Aires,masculino,38.0,secundario,1,,en blanco,ns/nc
+2025-10-26,534,La Rioja,femenino,40.0,universitario,1,,indeciso,ns/nc
+2025-10-17,535,Misiones,masculino,47.0,universitario,2,30.995769636932323,ns/nc,oposicion
+2025-10-18,536,Misiones,masculino,28.0,universitario,2,65.779288148804,indeciso,ns/nc
+2025-10-08,537,Entre Ríos,masculino,44.0,secundario,2,59.100709402333614,candidato,en blanco
+2025-10-19,538,Buenos Aires,femenino,19.0,primario,1,79.46544534425082,indeciso,oposicion
+2025-10-01,539,Mendoza,femenino,41.0,secundario,1,88.14122793365073,oposicion,ns/nc
+2025-10-05,540,Santiago del Estero,masculino,1.0,primario,4,52.48842332650966,oposicion,ns/nc
+2025-10-29,541,Chaco,femenino,53.0,terciario,2,,ns/nc,indeciso
+2025-10-20,542,Santa Fe,masculino,6.0,primario,3,52.38831158469597,candidato,ns/nc
+2025-10-12,543,Mendoza,femenino,45.0,universitario,1,33.41688911071771,en blanco,en blanco
+2025-10-25,544,Tierra del Fuego,femenino,41.0,secundario,6,48.95625736846127,indeciso,oposicion
+2025-10-24,545,Neuquén,masculino,40.0,secundario,4,51.83850451695539,ns/nc,en blanco
+2025-10-18,546,Formosa,masculino,53.0,universitario,6,22.607298201192727,ns/nc,indeciso
+2025-10-11,547,Salta,femenino,49.0,secundario,3,22.846963975247107,,candidato
+2025-10-11,548,Mendoza,masculino,19.0,secundario,2,54.680752491740115,en blanco,en blanco
+2025-10-29,549,Santiago del Estero,masculino,29.0,secundario,6,69.18748221999886,candidato,indeciso
+2025-10-22,550,Catamarca,masculino,62.0,secundario,2,62.20937452459413,en blanco,indeciso
+2025-10-14,551,La Rioja,femenino,46.0,terciario,2,67.17658683106515,en blanco,indeciso
+2025-10-15,552,Santa Cruz,femenino,34.0,terciario,5,32.091786206997256,ns/nc,indeciso
+2025-10-20,553,Chaco,masculino,37.0,terciario,2,42.178346760550454,indeciso,indeciso
+2025-10-31,554,Mendoza,femenino,34.0,primario,2,71.64611869246643,oposicion,candidato
+2025-10-12,555,Chubut,masculino,37.0,,4,66.41337083683368,ns/nc,indeciso
+2025-10-03,556,Tucumán,femenino,46.0,universitario,3,65.9643289523494,candidato,ns/nc
+2025-10-06,557,Santa Cruz,femenino,49.0,primario,1,41.46277521564822,indeciso,indeciso
+2025-10-05,558,Tucumán,femenino,19.0,primario,5,86.78100173882322,,candidato
+2025-10-25,559,Córdoba,masculino,42.0,terciario,4,69.08888229445886,oposicion,oposicion
+2025-10-15,560,Formosa,femenino,23.0,secundario,6,62.890692819487576,ns/nc,candidato
+2025-10-27,561,Córdoba,masculino,37.0,universitario,2,67.96464567940306,candidato,oposicion
+2025-10-02,562,Corrientes,masculino,14.0,universitario,4,36.17041371423957,,en blanco
+2025-10-05,563,Jujuy,femenino,10.0,universitario,6,82.64366903367059,en blanco,indeciso
+2025-10-31,564,Tucumán,masculino,35.0,terciario,4,69.13727930908092,en blanco,indeciso
+2025-10-06,565,Catamarca,femenino,40.0,universitario,1,59.66302976938687,candidato,en blanco
+2025-10-19,566,Jujuy,masculino,48.0,primario,2,37.38922138906604,indeciso,en blanco
+2025-10-21,567,Córdoba,masculino,63.0,secundario,4,16.8576781498467,indeciso,en blanco
+2025-10-13,568,Buenos Aires,masculino,38.0,universitario,5,71.84259066945921,ns/nc,en blanco
+2025-10-11,569,Entre Ríos,masculino,57.0,secundario,2,67.357621982612,,en blanco
+2025-10-20,570,La Pampa,masculino,,secundario,1,63.60803138845541,en blanco,en blanco
+2025-10-31,571,San Juan,femenino,45.0,universitario,1,,oposicion,indeciso
+2025-10-20,572,Mendoza,masculino,55.0,universitario,5,76.82007205477467,indeciso,candidato
+2025-10-28,573,San Juan,masculino,64.0,secundario,2,68.48509435052026,ns/nc,indeciso
+2025-10-24,574,Buenos Aires,femenino,17.0,terciario,1,60.700639227520476,indeciso,indeciso
+2025-10-29,575,Buenos Aires,masculino,24.0,secundario,3,60.0317034125935,ns/nc,ns/nc
+2025-10-23,576,Misiones,femenino,29.0,terciario,4,94.10249224170796,en blanco,indeciso
+2025-10-13,577,Catamarca,masculino,42.0,secundario,6,30.231614714420964,indeciso,en blanco
+2025-10-11,578,Córdoba,femenino,,,4,66.39725574966783,indeciso,indeciso
+2025-10-30,579,Tucumán,femenino,44.0,secundario,1,30.906505868033058,en blanco,candidato
+2025-10-29,580,Tierra del Fuego,femenino,47.0,primario,6,65.4424952044117,oposicion,en blanco
+2025-10-24,581,San Juan,masculino,36.0,universitario,1,76.89908925417964,candidato,indeciso
+2025-10-03,582,Córdoba,masculino,52.0,secundario,3,29.014192683143012,indeciso,en blanco
+2025-10-05,583,La Pampa,masculino,18.0,universitario,5,79.67101580661816,ns/nc,en blanco
+2025-10-02,584,Corrientes,femenino,22.0,primario,2,69.45711902074277,ns/nc,en blanco
+2025-10-31,585,Santa Cruz,masculino,32.0,primario,1,57.96140049787596,candidato,oposicion
+2025-10-20,586,Chubut,masculino,38.0,universitario,6,40.1540294860563,en blanco,ns/nc
+2025-10-14,587,Río Negro,masculino,24.0,primario,5,64.0296703172152,candidato,candidato
+2025-10-27,588,San Juan,masculino,34.0,universitario,4,54.654928972394025,indeciso,ns/nc
+2025-10-26,589,Santa Cruz,femenino,53.0,terciario,5,28.986696353327112,candidato,en blanco
+2025-10-08,590,La Pampa,femenino,20.0,universitario,4,69.94950540955867,ns/nc,candidato
+2025-10-24,591,Jujuy,femenino,17.0,universitario,3,28.966620394909405,ns/nc,oposicion
+2025-10-18,592,Misiones,femenino,49.0,,1,73.53837377716181,ns/nc,indeciso
+2025-10-25,593,Neuquén,masculino,34.0,secundario,4,62.446687362699265,indeciso,en blanco
+2025-10-30,594,Buenos Aires,femenino,85.0,secundario,4,58.86808464894799,ns/nc,candidato
+2025-10-29,595,Río Negro,masculino,42.0,terciario,1,72.47468983242283,candidato,oposicion
+2025-10-22,596,La Pampa,masculino,55.0,secundario,3,42.147058379789904,oposicion,ns/nc
+2025-10-29,597,Formosa,masculino,9.0,terciario,5,,ns/nc,candidato
+2025-10-21,598,Santa Fe,femenino,40.0,universitario,1,52.81327914003202,ns/nc,ns/nc
+2025-10-03,599,La Rioja,masculino,33.0,terciario,4,66.87838728935732,en blanco,en blanco
+2025-10-10,600,Mendoza,femenino,57.0,primario,3,53.78455692472907,ns/nc,candidato
+2025-10-14,601,Corrientes,femenino,47.0,universitario,6,63.82766309453689,candidato,candidato
+2025-10-29,602,Mendoza,femenino,48.0,primario,1,80.40064649749517,indeciso,candidato
+2025-10-22,603,San Luis,femenino,55.0,terciario,5,61.125546315219985,en blanco,indeciso
+2025-10-03,604,Chaco,femenino,29.0,terciario,5,39.31810028306551,oposicion,oposicion
+2025-10-10,605,Buenos Aires,masculino,52.0,primario,6,70.55190198885579,ns/nc,indeciso
+2025-10-29,606,Buenos Aires,masculino,45.0,,3,74.31239823283676,en blanco,ns/nc
+2025-10-23,607,Córdoba,femenino,62.0,secundario,1,54.25875347103141,indeciso,oposicion
+2025-10-07,608,Río Negro,femenino,32.0,secundario,4,,indeciso,en blanco
+2025-10-06,609,Salta,masculino,42.0,terciario,1,50.023296009568234,candidato,indeciso
+2025-10-20,610,Salta,femenino,43.0,universitario,1,48.45348190252938,candidato,en blanco
+2025-10-26,611,Chubut,femenino,8.0,terciario,1,36.99538715697001,ns/nc,en blanco
+2025-10-12,612,La Rioja,masculino,19.0,primario,3,46.72145965733897,oposicion,en blanco
+2025-10-26,613,Santa Cruz,masculino,34.0,terciario,5,83.61938176968167,en blanco,candidato
+2025-10-14,614,Corrientes,masculino,45.0,secundario,5,65.22232082636891,indeciso,ns/nc
+2025-10-27,615,Tucumán,femenino,28.0,universitario,5,75.00201770059776,candidato,en blanco
+2025-10-23,616,Catamarca,masculino,34.0,secundario,5,33.1845806740092,ns/nc,indeciso
+2025-10-02,617,Misiones,masculino,40.0,primario,4,41.27119620500601,oposicion,indeciso
+2025-10-07,618,Formosa,femenino,27.0,secundario,4,-0.23681197710230606,ns/nc,oposicion
+2025-10-30,619,Chaco,femenino,41.0,universitario,1,27.662893767296413,,candidato
+2025-10-13,620,Formosa,femenino,68.0,universitario,2,30.16791965292515,candidato,oposicion
+2025-10-24,621,San Juan,masculino,50.0,secundario,6,37.65737984751739,oposicion,ns/nc
+2025-10-23,622,Chaco,femenino,37.0,secundario,6,74.18877851319962,candidato,candidato
+2025-10-05,623,Jujuy,masculino,59.0,universitario,3,60.011417212474115,en blanco,en blanco
+2025-10-18,624,La Rioja,masculino,36.0,primario,4,49.25821507375123,ns/nc,oposicion
+2025-10-27,625,Río Negro,femenino,33.0,secundario,1,59.81495503603123,indeciso,indeciso
+2025-10-07,626,Santiago del Estero,femenino,63.0,,1,50.1016391269638,ns/nc,indeciso
+2025-10-16,627,Misiones,femenino,30.0,secundario,2,36.540810650720104,ns/nc,ns/nc
+2025-10-29,628,Salta,masculino,44.0,primario,1,71.02740263923062,candidato,candidato
+2025-10-12,629,Neuquén,femenino,48.0,universitario,1,38.54528310623367,indeciso,ns/nc
+2025-10-21,630,Entre Ríos,masculino,41.0,secundario,2,68.86553155877566,en blanco,oposicion
+2025-10-14,631,Jujuy,femenino,44.0,universitario,6,81.03955458748416,oposicion,indeciso
+2025-10-25,632,Corrientes,femenino,71.0,primario,2,15.043428843821836,ns/nc,indeciso
+2025-10-24,633,Santiago del Estero,masculino,43.0,,1,76.27958502792974,en blanco,indeciso
+2025-10-11,634,Entre Ríos,masculino,39.0,secundario,4,40.27044702179198,candidato,en blanco
+2025-10-15,635,San Juan,femenino,45.0,universitario,6,17.79688806901963,oposicion,ns/nc
+2025-10-10,636,Mendoza,femenino,47.0,universitario,4,30.923350029725544,en blanco,oposicion
+2025-10-31,637,Salta,masculino,59.0,universitario,4,60.00801130962893,candidato,ns/nc
+2025-10-18,638,San Juan,femenino,,universitario,1,31.464305011886925,ns/nc,en blanco
+2025-10-10,639,San Juan,masculino,41.0,secundario,5,77.43548101337184,oposicion,en blanco
+2025-10-25,640,La Pampa,femenino,34.0,primario,4,60.89356519802694,oposicion,candidato
+2025-10-15,641,Neuquén,femenino,41.0,secundario,5,69.44371617732813,indeciso,candidato
+2025-10-16,642,Santiago del Estero,masculino,101.0,terciario,6,13.898415725628055,,en blanco
+2025-10-27,643,San Luis,masculino,43.0,secundario,5,31.524646939700215,indeciso,ns/nc
+2025-10-03,644,Formosa,femenino,44.0,,3,67.08008656624781,oposicion,en blanco
+2025-10-02,645,Formosa,femenino,64.0,secundario,6,39.906573047433604,ns/nc,indeciso
+2025-10-27,646,Formosa,femenino,39.0,universitario,1,53.38273562242356,en blanco,ns/nc
+2025-10-18,647,Salta,masculino,57.0,terciario,3,73.64027216556767,ns/nc,indeciso
+2025-10-16,648,Buenos Aires,femenino,50.0,universitario,4,76.61523475807931,en blanco,candidato
+2025-10-01,649,Mendoza,masculino,31.0,secundario,3,28.14244592176532,indeciso,en blanco
+2025-10-02,650,Tucumán,femenino,38.0,secundario,1,28.49977711111673,ns/nc,candidato
+2025-10-27,651,Santa Cruz,femenino,26.0,primario,2,23.440220772570754,ns/nc,candidato
+2025-10-17,652,La Pampa,femenino,34.0,terciario,1,12.97163272188093,oposicion,candidato
+2025-10-26,653,Santa Fe,masculino,38.0,,5,53.45736623600666,ns/nc,indeciso
+2025-10-10,654,Formosa,femenino,50.0,primario,3,59.69903588599135,,oposicion
+2025-10-01,655,Misiones,femenino,13.0,universitario,3,58.204657088638434,,candidato
+2025-10-30,656,Río Negro,masculino,35.0,universitario,4,54.06974797025853,indeciso,oposicion
+2025-10-03,657,Buenos Aires,masculino,21.0,terciario,1,51.68108811752639,en blanco,en blanco
+2025-10-13,658,Córdoba,masculino,49.0,terciario,2,46.90472739057941,indeciso,oposicion
+2025-10-19,659,Río Negro,femenino,71.0,universitario,4,89.60905255172815,oposicion,ns/nc
+2025-10-11,660,Chaco,masculino,23.0,primario,4,83.51410333701625,en blanco,oposicion
+2025-10-25,661,La Pampa,masculino,60.0,terciario,1,50.33564724852539,indeciso,oposicion
+2025-10-29,662,La Pampa,masculino,26.0,secundario,3,81.23295161240493,candidato,ns/nc
+2025-10-20,663,Formosa,femenino,13.0,,3,25.325477008665388,indeciso,oposicion
+2025-10-22,664,Chubut,masculino,47.0,terciario,6,42.70051780582866,candidato,en blanco
+2025-10-06,665,Buenos Aires,masculino,44.0,primario,3,50.95750400719429,indeciso,en blanco
+2025-10-07,666,Santa Cruz,femenino,53.0,secundario,3,80.2042157684728,,candidato
+2025-10-24,667,San Juan,masculino,48.0,primario,4,53.134208467965856,oposicion,ns/nc
+2025-10-04,668,La Pampa,masculino,36.0,secundario,4,43.28459500724653,en blanco,oposicion
+2025-10-24,669,Tierra del Fuego,femenino,23.0,terciario,2,22.60830399184229,candidato,oposicion
+2025-10-02,670,Entre Ríos,masculino,33.0,secundario,5,29.48154044234517,candidato,indeciso
+2025-10-14,671,Tucumán,masculino,35.0,primario,5,59.58377182450589,oposicion,en blanco
+2025-10-28,672,La Rioja,masculino,51.0,secundario,3,37.8527902620834,indeciso,indeciso
+2025-10-10,673,Santiago del Estero,masculino,28.0,secundario,2,84.9193246949141,oposicion,ns/nc
+2025-10-15,674,Salta,masculino,27.0,universitario,2,14.923618637881987,ns/nc,en blanco
+2025-10-03,675,Mendoza,femenino,30.0,universitario,2,75.22085630331199,indeciso,oposicion
+2025-10-22,676,Chubut,masculino,45.0,terciario,1,,ns/nc,ns/nc
+2025-10-04,677,La Pampa,femenino,34.0,primario,6,38.17214331429974,indeciso,en blanco
+2025-10-21,678,Río Negro,masculino,34.0,terciario,3,33.1280928635158,candidato,en blanco
+2025-10-19,679,Chaco,femenino,30.0,universitario,6,78.3650451095173,,candidato
+2025-10-12,680,Buenos Aires,femenino,40.0,primario,4,45.40764308264684,oposicion,candidato
+2025-10-16,681,Tucumán,masculino,36.0,terciario,1,82.24084902393204,indeciso,indeciso
+2025-10-24,682,Corrientes,masculino,54.0,terciario,6,71.20094784707081,indeciso,ns/nc
+2025-10-08,683,Catamarca,masculino,51.0,universitario,4,75.89142838185744,ns/nc,ns/nc
+2025-10-24,684,Chaco,masculino,37.0,primario,6,53.99277930676894,,oposicion
+2025-10-20,685,Santa Cruz,femenino,55.0,terciario,1,97.12226960267341,candidato,en blanco
+2025-10-26,686,Santa Cruz,femenino,34.0,terciario,5,78.87357400487578,candidato,indeciso
+2025-10-09,687,Corrientes,masculino,56.0,terciario,3,68.89402467067003,indeciso,en blanco
+2025-10-27,688,Santiago del Estero,masculino,49.0,primario,3,,ns/nc,indeciso
+2025-10-25,689,Santiago del Estero,femenino,51.0,universitario,3,65.3646467549399,ns/nc,indeciso
+2025-10-15,690,Formosa,masculino,54.0,secundario,1,74.33720304429681,oposicion,en blanco
+2025-10-25,691,Buenos Aires,femenino,16.0,terciario,3,66.14343946041336,ns/nc,indeciso
+2025-10-04,692,La Rioja,femenino,50.0,primario,1,80.69082660904905,ns/nc,oposicion
+2025-10-22,693,Corrientes,femenino,49.0,primario,4,76.63614855202783,en blanco,en blanco
+2025-10-18,694,Chaco,masculino,53.0,terciario,2,56.46262277478785,en blanco,ns/nc
+2025-10-17,695,La Rioja,masculino,47.0,secundario,2,35.71414547825756,oposicion,en blanco
+2025-10-05,696,Chubut,masculino,32.0,terciario,6,63.97963259731101,en blanco,indeciso
+2025-10-10,697,Corrientes,femenino,44.0,universitario,1,82.28447335419708,en blanco,en blanco
+2025-10-08,698,Santa Fe,masculino,36.0,,1,70.24944960318504,en blanco,indeciso
+2025-10-31,699,Formosa,femenino,24.0,terciario,1,50.48552863053575,indeciso,indeciso
+2025-10-31,700,La Rioja,masculino,46.0,terciario,1,45.45034827146226,candidato,ns/nc
+2025-10-17,701,Mendoza,masculino,-14.0,terciario,6,69.95912393171152,ns/nc,oposicion
+2025-10-24,702,Río Negro,masculino,37.0,primario,3,45.169094889000405,indeciso,indeciso
+2025-10-24,703,Catamarca,femenino,28.0,secundario,2,17.311025858692005,indeciso,ns/nc
+2025-10-11,704,Santiago del Estero,femenino,40.0,terciario,2,59.79864974159912,oposicion,oposicion
+2025-10-04,705,San Luis,masculino,55.0,universitario,5,71.70582773918449,,candidato
+2025-10-01,706,La Rioja,femenino,63.0,universitario,3,70.87860533793807,indeciso,oposicion
+2025-10-24,707,Tierra del Fuego,femenino,46.0,terciario,4,58.08322527164237,indeciso,oposicion
+2025-10-02,708,Santa Cruz,masculino,49.0,universitario,6,39.27501611288321,candidato,indeciso
+2025-10-16,709,Santiago del Estero,femenino,35.0,terciario,1,81.14843283537307,ns/nc,oposicion
+2025-10-22,710,Mendoza,femenino,15.0,primario,6,47.86671038050095,ns/nc,indeciso
+2025-10-19,711,La Rioja,femenino,55.0,universitario,1,39.40852313339391,en blanco,ns/nc
+2025-10-29,712,Chaco,masculino,24.0,secundario,2,64.74991930244803,candidato,indeciso
+2025-10-06,713,Formosa,masculino,37.0,primario,2,24.37010753618082,oposicion,en blanco
+2025-10-02,714,Santa Fe,masculino,28.0,terciario,5,61.16832833325305,en blanco,oposicion
+2025-10-27,715,Salta,femenino,33.0,universitario,2,30.680039592932182,en blanco,ns/nc
+2025-10-15,716,Córdoba,masculino,40.0,secundario,1,79.89835402950378,candidato,oposicion
+2025-10-24,717,Salta,masculino,56.0,universitario,5,71.81341751366247,indeciso,en blanco
+2025-10-15,718,Salta,masculino,14.0,terciario,4,84.88580245792434,indeciso,en blanco
+2025-10-16,719,San Juan,femenino,45.0,universitario,1,74.18683960034147,oposicion,ns/nc
+2025-10-25,720,Río Negro,masculino,22.0,secundario,6,66.24233103550733,,oposicion
+2025-10-13,721,Jujuy,femenino,94.0,terciario,3,,ns/nc,candidato
+2025-10-08,722,San Juan,masculino,23.0,primario,1,81.88057383795984,oposicion,oposicion
+2025-10-25,723,Jujuy,masculino,41.0,secundario,3,70.68517014503031,candidato,en blanco
+2025-10-09,724,San Luis,masculino,32.0,primario,1,48.60772190155912,ns/nc,indeciso
+2025-10-22,725,Córdoba,masculino,50.0,secundario,5,37.0434868509866,en blanco,oposicion
+2025-10-31,726,Santiago del Estero,femenino,5.0,universitario,3,,candidato,ns/nc
+2025-10-02,727,Santa Fe,masculino,55.0,secundario,2,-2.8447248033659918,,candidato
+2025-10-12,728,Chaco,femenino,75.0,universitario,3,66.74310858297258,indeciso,ns/nc
+2025-10-27,729,Tierra del Fuego,femenino,45.0,primario,6,62.82664806057043,en blanco,oposicion
+2025-10-30,730,Entre Ríos,masculino,21.0,secundario,1,74.99473441975016,en blanco,indeciso
+2025-10-16,731,Chubut,femenino,,universitario,4,29.024891661953877,en blanco,candidato
+2025-10-06,732,Santiago del Estero,masculino,39.0,primario,5,78.77352397232406,ns/nc,oposicion
+2025-10-30,733,San Juan,femenino,55.0,,2,79.71231654723468,candidato,indeciso
+2025-10-14,734,Río Negro,femenino,32.0,universitario,6,73.8547336882931,ns/nc,oposicion
+2025-10-30,735,Santiago del Estero,femenino,64.0,terciario,3,38.36832141109426,indeciso,oposicion
+2025-10-21,736,Río Negro,masculino,55.0,primario,2,65.09508013686205,oposicion,en blanco
+2025-10-24,737,Chaco,masculino,,universitario,5,54.961696889288085,,indeciso
+2025-10-18,738,Santa Cruz,femenino,21.0,terciario,4,38.6549403939375,oposicion,candidato
+2025-10-08,739,Chaco,femenino,23.0,terciario,1,52.75603788748322,,oposicion
+2025-10-07,740,San Juan,masculino,64.0,terciario,6,63.08399001184501,en blanco,indeciso
+2025-10-20,741,San Juan,masculino,42.0,terciario,6,49.70544357874917,candidato,indeciso
+2025-10-31,742,Córdoba,femenino,56.0,primario,6,56.8299346427057,oposicion,en blanco
+2025-10-25,743,Neuquén,femenino,,primario,2,13.076830104621408,indeciso,ns/nc
+2025-10-26,744,Formosa,femenino,38.0,primario,5,33.38855126303208,oposicion,candidato
+2025-10-02,745,San Juan,masculino,5.0,primario,2,69.5085206912628,ns/nc,indeciso
+2025-10-19,746,San Luis,masculino,7.0,terciario,5,70.34659440257863,indeciso,oposicion
+2025-10-01,747,Chaco,femenino,,universitario,4,51.12106230118667,candidato,indeciso
+2025-10-02,748,Santa Fe,femenino,,universitario,2,11.909238149003905,ns/nc,ns/nc
+2025-10-23,749,Tierra del Fuego,masculino,74.0,universitario,5,33.28714118315044,oposicion,ns/nc
+2025-10-18,750,Mendoza,femenino,41.0,terciario,2,73.30611077354988,ns/nc,oposicion
+2025-10-21,751,San Juan,femenino,41.0,primario,6,51.60230967828062,indeciso,en blanco
+2025-10-10,752,Córdoba,masculino,25.0,primario,6,62.95212378445669,indeciso,candidato
+2025-10-20,753,Jujuy,femenino,40.0,primario,4,12.001512455250136,candidato,en blanco
+2025-10-24,754,Jujuy,femenino,34.0,terciario,1,,candidato,ns/nc
+2025-10-21,755,Chaco,masculino,32.0,secundario,6,88.74422611091818,en blanco,en blanco
+2025-10-27,756,Río Negro,masculino,50.0,secundario,3,58.84508383731006,ns/nc,indeciso
+2025-10-03,757,Chubut,femenino,21.0,universitario,4,55.39676277118396,indeciso,indeciso
+2025-10-12,758,Chubut,masculino,31.0,universitario,2,64.04829763401145,candidato,oposicion
+2025-10-26,759,Jujuy,femenino,48.0,universitario,6,53.004777714567815,ns/nc,oposicion
+2025-10-15,760,Córdoba,masculino,41.0,terciario,4,40.07879164954235,ns/nc,oposicion
+2025-10-23,761,Chubut,femenino,61.0,universitario,2,82.54420427018547,indeciso,oposicion
+2025-10-27,762,Tierra del Fuego,masculino,21.0,primario,6,40.77602620332628,ns/nc,candidato
+2025-10-10,763,Misiones,femenino,17.0,terciario,1,59.38224150494871,oposicion,oposicion
+2025-10-11,764,Río Negro,femenino,30.0,terciario,3,46.85223709411801,,oposicion
+2025-10-07,765,Mendoza,femenino,59.0,secundario,3,77.0152791274183,indeciso,candidato
+2025-10-30,766,Buenos Aires,femenino,42.0,universitario,3,28.241421818660882,candidato,candidato
+2025-10-19,767,San Juan,femenino,50.0,terciario,6,36.826972213581946,en blanco,ns/nc
+2025-10-14,768,Formosa,femenino,47.0,universitario,3,63.742905814177035,en blanco,candidato
+2025-10-02,769,Santa Fe,femenino,22.0,secundario,1,70.46989148845347,en blanco,candidato
+2025-10-13,770,Jujuy,masculino,23.0,secundario,2,39.97307185774188,indeciso,oposicion
+2025-10-14,771,Jujuy,femenino,59.0,universitario,6,62.869925090313004,candidato,indeciso
+2025-10-11,772,Formosa,femenino,26.0,secundario,2,61.912404400633456,en blanco,candidato
+2025-10-03,773,Jujuy,femenino,14.0,secundario,6,58.678209946492615,oposicion,ns/nc
+2025-10-04,774,Santiago del Estero,masculino,40.0,universitario,5,,indeciso,en blanco
+2025-10-08,775,San Luis,femenino,,secundario,3,83.72703567375511,en blanco,indeciso
+2025-10-08,776,Jujuy,masculino,31.0,universitario,1,35.062494837800344,indeciso,ns/nc
+2025-10-24,777,Misiones,masculino,25.0,secundario,2,55.99717376517924,indeciso,ns/nc
+2025-10-04,778,Buenos Aires,masculino,54.0,universitario,1,80.85454180085867,candidato,indeciso
+2025-10-20,779,La Rioja,femenino,37.0,universitario,4,71.85858995903344,en blanco,candidato
+2025-10-11,780,San Luis,masculino,37.0,universitario,6,44.58344243529226,indeciso,indeciso
+2025-10-13,781,Río Negro,femenino,73.0,terciario,1,17.52889565705899,oposicion,indeciso
+2025-10-12,782,Córdoba,masculino,27.0,secundario,2,70.37619242106786,oposicion,candidato
+2025-10-02,783,Tucumán,femenino,34.0,terciario,2,63.27492708420708,candidato,ns/nc
+2025-10-07,784,Entre Ríos,masculino,11.0,universitario,4,61.532776941649345,en blanco,ns/nc
+2025-10-25,785,Santiago del Estero,femenino,33.0,terciario,1,,oposicion,candidato
+2025-10-19,786,Catamarca,femenino,,universitario,6,83.81634446993343,ns/nc,ns/nc
+2025-10-18,787,Córdoba,masculino,28.0,universitario,6,92.15170996015449,oposicion,ns/nc
+2025-10-03,788,Formosa,masculino,74.0,primario,5,73.1947853846334,ns/nc,ns/nc
+2025-10-18,789,Santa Cruz,femenino,43.0,secundario,1,47.27808784384103,indeciso,indeciso
+2025-10-28,790,Santa Cruz,femenino,10.0,secundario,2,89.89525138192047,ns/nc,ns/nc
+2025-10-19,791,Tucumán,masculino,58.0,universitario,2,60.7484577695351,indeciso,ns/nc
+2025-10-17,792,San Luis,femenino,33.0,terciario,2,74.3381424051023,oposicion,candidato
+2025-10-04,793,San Luis,femenino,38.0,terciario,3,167.0,ns/nc,candidato
+2025-10-19,794,Formosa,femenino,45.0,primario,1,,candidato,en blanco
+2025-10-10,795,Santiago del Estero,masculino,33.0,primario,1,45.35042556909844,candidato,indeciso
+2025-10-08,796,Tucumán,femenino,37.0,primario,3,61.10024361944684,candidato,oposicion
+2025-10-27,797,Entre Ríos,femenino,40.0,,3,83.26001820972792,en blanco,en blanco
+2025-10-30,798,La Rioja,femenino,52.0,universitario,6,58.56865038396114,indeciso,ns/nc
+2025-10-15,799,Chaco,femenino,29.0,universitario,2,28.16363992601932,oposicion,candidato
+2025-10-23,800,La Rioja,femenino,33.0,,4,50.08746352632085,candidato,indeciso
+2025-10-05,801,Río Negro,femenino,51.0,secundario,1,43.24422399318025,indeciso,ns/nc
+2025-10-13,802,Salta,femenino,17.0,secundario,1,60.826964592721346,ns/nc,en blanco
+2025-10-22,803,Tucumán,masculino,37.0,primario,3,52.6627432895222,en blanco,en blanco
+2025-10-20,804,Santa Fe,masculino,48.0,primario,3,78.8084599858266,en blanco,en blanco
+2025-10-06,805,Córdoba,masculino,47.0,secundario,6,61.68312029441206,indeciso,indeciso
+2025-10-22,806,Jujuy,femenino,49.0,secundario,5,60.94181456858782,oposicion,ns/nc
+2025-10-17,807,Córdoba,femenino,35.0,,1,78.07972771334289,indeciso,oposicion
+2025-10-25,808,Córdoba,masculino,25.0,secundario,1,83.71698435047105,indeciso,indeciso
+2025-10-11,809,Corrientes,femenino,49.0,secundario,4,60.40544342870782,,indeciso
+2025-10-23,810,Río Negro,femenino,29.0,secundario,1,77.40127497887971,ns/nc,ns/nc
+2025-10-20,811,Salta,femenino,45.0,terciario,1,64.83290176299059,oposicion,ns/nc
+2025-10-20,812,San Juan,masculino,41.0,primario,1,46.32060728952858,en blanco,oposicion
+2025-10-27,813,Mendoza,masculino,35.0,secundario,3,65.25813383564827,ns/nc,en blanco
+2025-10-13,814,Santa Cruz,masculino,43.0,primario,6,49.43721513766887,en blanco,candidato
+2025-10-20,815,Salta,femenino,,terciario,6,68.88081560780024,candidato,ns/nc
+2025-10-10,816,Córdoba,femenino,39.0,primario,1,48.69009112000376,ns/nc,candidato
+2025-10-27,817,La Pampa,femenino,32.0,universitario,2,41.01344545445251,en blanco,ns/nc
+2025-10-07,818,Tierra del Fuego,femenino,21.0,universitario,5,70.12618593653647,en blanco,candidato
+2025-10-14,819,Mendoza,masculino,-1.0,universitario,3,65.72780702668807,ns/nc,ns/nc
+2025-10-11,820,La Pampa,masculino,35.0,terciario,2,39.73068758962169,indeciso,ns/nc
+2025-10-25,821,Jujuy,masculino,61.0,secundario,2,27.496806923723952,ns/nc,oposicion
+2025-10-16,822,Jujuy,femenino,49.0,terciario,2,46.30902885186738,oposicion,indeciso
+2025-10-21,823,Río Negro,masculino,48.0,universitario,2,30.646408964846827,en blanco,ns/nc
+2025-10-04,824,Misiones,femenino,38.0,universitario,4,52.58351655962603,ns/nc,candidato
+2025-10-15,825,Chubut,masculino,39.0,,4,75.1200173707041,oposicion,candidato
+2025-10-07,826,Córdoba,masculino,,universitario,5,59.10144634939965,oposicion,en blanco
+2025-10-16,827,Chaco,femenino,44.0,secundario,5,56.84677066687272,oposicion,indeciso
+2025-10-13,828,Tucumán,femenino,32.0,terciario,1,91.74105481131868,candidato,candidato
+2025-10-05,829,Tucumán,masculino,36.0,primario,2,,ns/nc,indeciso
+2025-10-12,830,San Luis,masculino,32.0,terciario,4,57.67940412667776,oposicion,en blanco
+2025-10-11,831,Salta,femenino,58.0,secundario,5,79.90509558082687,candidato,en blanco
+2025-10-11,832,Santa Cruz,femenino,,secundario,6,34.55957324716234,en blanco,candidato
+2025-10-31,833,Chaco,femenino,,secundario,3,72.80637693044311,,indeciso
+2025-10-13,834,Neuquén,masculino,71.0,secundario,6,53.04878664474047,candidato,indeciso
+2025-10-03,835,Río Negro,masculino,41.0,secundario,2,59.28228441213225,,en blanco
+2025-10-31,836,Corrientes,femenino,62.0,secundario,3,,oposicion,indeciso
+2025-10-31,837,Entre Ríos,femenino,59.0,primario,1,71.59906719467295,oposicion,candidato
+2025-10-23,838,La Pampa,femenino,27.0,secundario,3,95.25060613498884,ns/nc,oposicion
+2025-10-05,839,San Luis,masculino,48.0,terciario,1,71.99893671190293,ns/nc,ns/nc
+2025-10-27,840,San Juan,femenino,43.0,,1,89.68662699878203,oposicion,oposicion
+2025-10-11,841,Chaco,femenino,28.0,secundario,1,38.910894235028096,candidato,ns/nc
+2025-10-16,842,Tierra del Fuego,masculino,45.0,primario,4,62.903798396187646,ns/nc,en blanco
+2025-10-19,843,Entre Ríos,masculino,47.0,secundario,1,47.71105036965965,candidato,indeciso
+2025-10-08,844,Santa Fe,femenino,57.0,universitario,1,88.99797897042377,en blanco,en blanco
+2025-10-12,845,Misiones,masculino,31.0,universitario,1,65.4430041431239,en blanco,indeciso
+2025-10-13,846,Tucumán,femenino,27.0,,6,10.32243830985508,candidato,en blanco
+2025-10-06,847,Mendoza,femenino,29.0,universitario,2,62.16126573604927,en blanco,ns/nc
+2025-10-19,848,Santa Cruz,masculino,17.0,universitario,5,51.008381535866505,,en blanco
+2025-10-31,849,Córdoba,masculino,57.0,terciario,6,87.4368610878204,candidato,oposicion
+2025-10-03,850,Formosa,femenino,14.0,primario,5,83.00112825685528,ns/nc,oposicion
+2025-10-29,851,Catamarca,femenino,32.0,universitario,1,89.69334936154794,,oposicion
+2025-10-29,852,Santa Cruz,masculino,49.0,primario,2,72.04934473239908,ns/nc,oposicion
+2025-10-14,853,Santa Fe,masculino,30.0,universitario,6,64.32428323091612,candidato,oposicion
+2025-10-26,854,Jujuy,masculino,37.0,primario,4,33.87963814866791,,oposicion
+2025-10-16,855,Chaco,femenino,44.0,secundario,3,54.257552402319554,candidato,ns/nc
+2025-10-29,856,Tierra del Fuego,femenino,30.0,primario,1,58.57836651409123,ns/nc,ns/nc
+2025-10-26,857,Salta,masculino,66.0,secundario,6,54.246807428747935,ns/nc,indeciso
+2025-10-10,858,Buenos Aires,masculino,50.0,terciario,5,44.89840609812889,en blanco,ns/nc
+2025-10-16,859,Neuquén,femenino,29.0,secundario,2,61.052064393885644,ns/nc,indeciso
+2025-10-17,860,Córdoba,masculino,59.0,secundario,6,59.309499776422996,ns/nc,oposicion
+2025-10-13,861,Córdoba,femenino,38.0,universitario,6,42.207281965708,candidato,oposicion
+2025-10-02,862,Neuquén,masculino,26.0,terciario,4,53.090337895327615,en blanco,indeciso
+2025-10-08,863,Jujuy,femenino,44.0,terciario,3,,en blanco,oposicion
+2025-10-27,864,Tucumán,femenino,26.0,universitario,6,56.622618436729155,en blanco,indeciso
+2025-10-06,865,Entre Ríos,femenino,54.0,universitario,1,31.970925399619254,ns/nc,candidato
+2025-10-26,866,Córdoba,masculino,4.0,terciario,4,50.77597283925363,oposicion,ns/nc
+2025-10-21,867,Santa Cruz,femenino,36.0,terciario,3,62.395818497794025,candidato,ns/nc
+2025-10-03,868,Catamarca,masculino,28.0,primario,4,64.86469939692546,,en blanco
+2025-10-30,869,Santa Cruz,femenino,32.0,secundario,3,49.90789170873423,indeciso,ns/nc
+2025-10-10,870,Córdoba,femenino,19.0,primario,6,79.89484099740818,,indeciso
+2025-10-22,871,Jujuy,masculino,14.0,primario,4,97.07672429494414,candidato,en blanco
+2025-10-07,872,San Juan,masculino,47.0,universitario,1,31.043008763771613,ns/nc,en blanco
+2025-10-13,873,Santa Cruz,masculino,36.0,terciario,2,64.73186964921521,candidato,indeciso
+2025-10-11,874,Córdoba,masculino,22.0,,1,37.49820938203875,en blanco,ns/nc
+2025-10-09,875,Santa Fe,femenino,29.0,universitario,4,47.46065983381003,ns/nc,ns/nc
+2025-10-15,876,Catamarca,femenino,40.0,universitario,3,27.869424356615383,ns/nc,oposicion
+2025-10-26,877,Santiago del Estero,masculino,48.0,terciario,1,12.138541305634845,en blanco,ns/nc
+2025-10-23,878,Santa Cruz,femenino,,terciario,3,41.18708991478739,oposicion,oposicion
+2025-10-09,879,Neuquén,masculino,27.0,primario,3,41.272108381122514,indeciso,indeciso
+2025-10-21,880,Río Negro,femenino,32.0,terciario,1,71.90574799834746,candidato,oposicion
+2025-10-05,881,Chaco,femenino,37.0,primario,1,65.54153351145543,,oposicion
+2025-10-01,882,Chubut,femenino,67.0,primario,5,30.058815554053474,ns/nc,oposicion
+2025-10-06,883,Chubut,femenino,19.0,secundario,4,51.839274154615794,ns/nc,oposicion
+2025-10-19,884,Santa Cruz,masculino,48.0,primario,5,77.10771279478982,en blanco,ns/nc
+2025-10-07,885,Misiones,masculino,67.0,terciario,1,68.37228520072487,oposicion,candidato
+2025-10-04,886,Salta,masculino,51.0,primario,1,39.84849882111707,indeciso,oposicion
+2025-10-25,887,Córdoba,femenino,35.0,,3,90.81742928349574,oposicion,indeciso
+2025-10-29,888,Misiones,masculino,46.0,universitario,6,54.28067925637223,indeciso,candidato
+2025-10-07,889,San Luis,femenino,36.0,secundario,5,85.17255144797866,en blanco,ns/nc
+2025-10-11,890,Santiago del Estero,masculino,38.0,universitario,2,62.02229216420794,candidato,en blanco
+2025-10-31,891,San Luis,masculino,73.0,secundario,6,27.997700537370036,oposicion,candidato
+2025-10-04,892,Corrientes,masculino,43.0,secundario,2,33.70189099803588,indeciso,oposicion
+2025-10-28,893,Santa Fe,femenino,24.0,secundario,3,62.40533371543451,candidato,oposicion
+2025-10-20,894,Buenos Aires,femenino,47.0,terciario,1,,en blanco,en blanco
+2025-10-05,895,San Luis,masculino,31.0,terciario,2,21.622795130301682,indeciso,oposicion
+2025-10-15,896,Chubut,femenino,35.0,universitario,6,31.247185759738507,oposicion,candidato
+2025-10-23,897,Chaco,femenino,62.0,universitario,2,55.046932019497895,indeciso,ns/nc
+2025-10-02,898,Santiago del Estero,femenino,59.0,terciario,3,81.43592263108339,candidato,indeciso
+2025-10-02,899,La Pampa,femenino,38.0,universitario,1,67.05973146742743,oposicion,indeciso
+2025-10-30,900,Tierra del Fuego,femenino,14.0,terciario,5,40.535807226040674,candidato,ns/nc
+2025-10-27,901,Salta,femenino,30.0,terciario,4,26.988615582924798,candidato,oposicion
+2025-10-10,902,Salta,masculino,67.0,terciario,6,12.275221621423356,en blanco,ns/nc
+2025-10-27,903,Misiones,femenino,,secundario,6,70.74681952748233,indeciso,candidato
+2025-10-15,904,La Rioja,femenino,32.0,terciario,6,58.23192669354277,en blanco,indeciso
+2025-10-18,905,Neuquén,femenino,-2.0,universitario,3,44.66122647407304,indeciso,indeciso
+2025-10-11,906,Chaco,femenino,,terciario,2,62.78923814816311,ns/nc,ns/nc
+2025-10-07,907,Río Negro,masculino,62.0,secundario,3,71.8682020347442,en blanco,oposicion
+2025-10-23,908,Jujuy,femenino,37.0,secundario,2,54.25803674812636,ns/nc,oposicion
+2025-10-15,909,Jujuy,masculino,40.0,secundario,3,,ns/nc,indeciso
+2025-10-08,910,Catamarca,femenino,58.0,universitario,5,60.853377913586606,en blanco,en blanco
+2025-10-25,911,San Juan,masculino,27.0,secundario,3,70.39231232052742,oposicion,candidato
+2025-10-03,912,La Pampa,femenino,34.0,terciario,6,39.12680743843792,indeciso,indeciso
+2025-10-17,913,Formosa,femenino,32.0,terciario,5,68.60757941202542,oposicion,en blanco
+2025-10-11,914,La Pampa,masculino,53.0,,4,59.611199379386875,oposicion,oposicion
+2025-10-17,915,Corrientes,masculino,55.0,terciario,5,78.48462437547346,oposicion,indeciso
+2025-10-22,916,Entre Ríos,femenino,37.0,terciario,2,38.53484349776978,oposicion,indeciso
+2025-10-01,917,San Luis,masculino,63.0,secundario,3,51.77419493526029,indeciso,oposicion
+2025-10-16,918,Chubut,femenino,49.0,universitario,4,54.33513917628916,candidato,en blanco
+2025-10-20,919,Catamarca,femenino,42.0,primario,4,38.065800378310996,en blanco,indeciso
+2025-10-01,920,La Pampa,masculino,68.0,primario,3,53.134787642783195,oposicion,ns/nc
+2025-10-21,921,Entre Ríos,femenino,57.0,universitario,4,70.50962095713645,candidato,candidato
+2025-10-15,922,Catamarca,femenino,53.0,universitario,4,11.456122707264242,ns/nc,candidato
+2025-10-20,923,Córdoba,femenino,23.0,universitario,4,76.07351913808637,oposicion,en blanco
+2025-10-06,924,Córdoba,femenino,50.0,terciario,3,64.00786352048495,ns/nc,oposicion
+2025-10-30,925,La Pampa,femenino,18.0,universitario,1,69.26826420023187,en blanco,ns/nc
+2025-10-09,926,San Juan,femenino,45.0,secundario,1,55.43288940154737,en blanco,en blanco
+2025-10-02,927,Entre Ríos,femenino,27.0,primario,4,54.8599451261275,indeciso,candidato
+2025-10-05,928,Salta,femenino,51.0,primario,4,38.58515291734781,oposicion,candidato
+2025-10-01,929,Salta,femenino,42.0,primario,6,52.82940043492813,indeciso,indeciso
+2025-10-31,930,Santa Cruz,femenino,52.0,terciario,2,38.52736276578654,oposicion,oposicion
+2025-10-08,931,Corrientes,masculino,48.0,,4,54.039685911898424,ns/nc,indeciso
+2025-10-01,932,Buenos Aires,femenino,19.0,primario,6,52.14946312806923,indeciso,ns/nc
+2025-10-04,933,Buenos Aires,masculino,44.0,primario,3,87.22264231197528,candidato,oposicion
+2025-10-29,934,San Luis,masculino,45.0,secundario,3,48.7209115069128,candidato,en blanco
+2025-10-13,935,Salta,masculino,,secundario,2,51.32126160063256,oposicion,oposicion
+2025-10-29,936,Tucumán,femenino,43.0,secundario,6,34.691312186283106,candidato,ns/nc
+2025-10-02,937,Mendoza,femenino,63.0,terciario,6,76.89853084148343,,indeciso
+2025-10-12,938,Corrientes,femenino,22.0,universitario,1,49.01009862004029,ns/nc,oposicion
+2025-10-14,939,Buenos Aires,masculino,29.0,terciario,6,32.94891359336734,ns/nc,en blanco
+2025-10-21,940,Chubut,femenino,23.0,universitario,6,31.295208035697883,ns/nc,oposicion
+2025-10-27,941,Neuquén,femenino,10.0,universitario,1,35.82118412092814,ns/nc,indeciso
+2025-10-19,942,Catamarca,femenino,56.0,universitario,1,,ns/nc,en blanco
+2025-10-01,943,Santiago del Estero,femenino,23.0,terciario,2,10.433515614132261,oposicion,ns/nc
+2025-10-02,944,Chaco,masculino,42.0,,4,50.24605191857646,oposicion,candidato
+2025-10-29,945,Misiones,femenino,,,2,34.044857201967666,indeciso,ns/nc
+2025-10-31,946,Corrientes,masculino,87.0,primario,2,72.72190314542544,oposicion,candidato
+2025-10-01,947,San Juan,masculino,38.0,,2,23.185916871330964,candidato,indeciso
+2025-10-19,948,Tierra del Fuego,masculino,27.0,universitario,3,,ns/nc,ns/nc
+2025-10-02,949,Jujuy,femenino,20.0,terciario,5,68.7817293714175,ns/nc,indeciso
+2025-10-26,950,La Pampa,femenino,,,1,43.3299129966739,candidato,en blanco
+2025-10-31,951,Chubut,femenino,4.0,terciario,6,65.65428896399729,ns/nc,indeciso
+2025-10-01,952,Misiones,masculino,59.0,terciario,6,52.56827795684488,oposicion,ns/nc
+2025-10-21,953,Jujuy,femenino,47.0,universitario,3,60.6323936843733,oposicion,en blanco
+2025-10-25,954,Santiago del Estero,masculino,11.0,universitario,6,30.512094821459907,candidato,en blanco
+2025-10-08,955,Corrientes,masculino,28.0,primario,4,74.81205842290487,indeciso,indeciso
+2025-10-27,956,Salta,femenino,37.0,primario,3,77.08386628165208,oposicion,candidato
+2025-10-30,957,Entre Ríos,masculino,39.0,primario,5,33.79170434218708,ns/nc,en blanco
+2025-10-29,958,Misiones,femenino,17.0,,2,61.151395219637735,candidato,ns/nc
+2025-10-12,959,San Juan,femenino,32.0,primario,5,43.18459847696211,ns/nc,ns/nc
+2025-10-17,960,Mendoza,masculino,11.0,primario,1,44.46774960196386,oposicion,oposicion
+2025-10-22,961,Misiones,masculino,36.0,secundario,3,-10.145985115795455,oposicion,indeciso
+2025-10-31,962,Corrientes,masculino,58.0,primario,6,56.26114146296575,ns/nc,oposicion
+2025-10-01,963,Mendoza,masculino,49.0,universitario,3,53.99505214245686,,indeciso
+2025-10-06,964,Salta,femenino,18.0,universitario,5,60.606533028459864,candidato,oposicion
+2025-10-29,965,San Luis,femenino,,terciario,5,92.54500112842089,indeciso,candidato
+2025-10-21,966,Corrientes,femenino,21.0,terciario,2,63.83746487312834,candidato,ns/nc
+2025-10-03,967,Entre Ríos,masculino,42.0,,3,37.97172570479754,indeciso,candidato
+2025-10-31,968,San Juan,masculino,44.0,secundario,2,53.3980982608515,candidato,ns/nc
+2025-10-25,969,Tierra del Fuego,femenino,41.0,secundario,6,72.55273269858394,ns/nc,indeciso
+2025-10-27,970,Salta,masculino,44.0,secundario,2,63.61702065995782,ns/nc,indeciso
+2025-10-31,971,Mendoza,femenino,31.0,universitario,6,89.54588342569228,candidato,en blanco
+2025-10-31,972,Mendoza,femenino,41.0,secundario,5,31.72499468649911,ns/nc,ns/nc
+2025-10-10,973,Santa Cruz,masculino,19.0,secundario,4,86.63100993170227,indeciso,ns/nc
+2025-10-25,974,Entre Ríos,femenino,39.0,universitario,2,33.990699737427505,,en blanco
+2025-10-11,975,Tierra del Fuego,masculino,,universitario,6,27.512090659054614,oposicion,oposicion
+2025-10-01,976,Mendoza,masculino,33.0,secundario,6,47.97100353596335,oposicion,oposicion
+2025-10-21,977,Salta,masculino,65.0,primario,5,60.348846812290404,,en blanco
+2025-10-20,978,Santiago del Estero,femenino,51.0,,1,25.546131883159816,candidato,oposicion
+2025-10-09,979,Salta,masculino,61.0,primario,5,32.3248096194483,candidato,oposicion
+2025-10-22,980,Corrientes,femenino,46.0,primario,6,90.5785852160507,oposicion,candidato
+2025-10-08,981,Chubut,masculino,52.0,terciario,1,,en blanco,en blanco
+2025-10-26,982,Corrientes,masculino,25.0,universitario,6,52.636972777630675,indeciso,candidato
+2025-10-04,983,Chaco,femenino,29.0,secundario,3,71.77007602975658,oposicion,ns/nc
+2025-10-08,984,Chaco,femenino,33.0,universitario,2,86.4511735195743,candidato,ns/nc
+2025-10-12,985,Río Negro,femenino,45.0,universitario,3,27.78643753587548,,ns/nc
+2025-10-09,986,Salta,femenino,38.0,terciario,2,59.49390425587417,ns/nc,candidato
+2025-10-10,987,Santiago del Estero,masculino,55.0,terciario,2,89.14239568018644,ns/nc,ns/nc
+2025-10-29,988,La Rioja,masculino,45.0,terciario,2,32.85067023082671,ns/nc,en blanco
+2025-10-09,989,San Luis,masculino,37.0,terciario,2,42.38501847507308,indeciso,candidato
+2025-10-06,990,Chubut,masculino,62.0,,1,34.09982836663821,indeciso,candidato
+2025-10-03,991,La Pampa,femenino,53.0,terciario,5,-9.059107774800736,oposicion,oposicion
+2025-10-24,992,San Juan,masculino,31.0,secundario,6,66.44241972742208,oposicion,candidato
+2025-10-21,993,Córdoba,masculino,26.0,universitario,2,64.42137493956331,candidato,oposicion
+2025-10-14,994,Santa Fe,femenino,30.0,terciario,6,73.94175252554714,oposicion,en blanco
+2025-10-07,995,Corrientes,masculino,20.0,universitario,3,40.27810354016497,candidato,indeciso
+2025-10-07,996,Salta,femenino,35.0,,6,29.59210507446845,,indeciso
+2025-10-12,997,Catamarca,masculino,78.0,universitario,5,62.344473807962785,ns/nc,ns/nc
+2025-10-20,998,Formosa,masculino,55.0,terciario,3,80.337186772863,candidato,ns/nc
+2025-10-01,999,Salta,masculino,32.0,secundario,2,,oposicion,oposicion
+2025-10-17,1000,Chaco,masculino,9.0,universitario,5,77.39741721685985,indeciso,ns/nc
