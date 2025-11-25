@@ -249,10 +249,7 @@ def mapear_voto_auto(df):
         df["voto_mapeado"] = df["voto"].apply(mapear_multi)
         return df
 
-
-    # ==========================================================
     # CASO BINARIO
-    # ==========================================================
     if tipo == "binario":
 
         positivos = [
@@ -277,9 +274,8 @@ def mapear_voto_auto(df):
         return df
 
 
-    # ==========================================================
     # CASO DESCONOCIDO
-    # ==========================================================
+  
     df["voto_mapeado"] = 0
     return df
 
@@ -749,6 +745,7 @@ plt.grid(True, linestyle='--', alpha=0.7)
 plt.xticks(rotation=45, ha='right')
 plt.tight_layout()
 plt.show()
+
 
 
 
