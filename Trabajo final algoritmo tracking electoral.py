@@ -120,7 +120,7 @@ def limpiar_columna_numerica(df, columna):
     print("Primeros valores ORIGINALES:")
     print(df[columna].head())
 
-    # paso 1: convertir a número
+    # A)Convertir a número
     df[columna] = pd.to_numeric(
         df[columna].astype(str).str.replace("%", "").str.strip(),
         errors="coerce"
@@ -129,13 +129,13 @@ def limpiar_columna_numerica(df, columna):
     print("\nDespués de pasar todo a número:")
     print(df[columna].head())
 
-    # paso 2: poner NaN a valores fuera de 0-100
+    # B) Poner NaN a valores fuera de 0-100
     df.loc[(df[columna] < 0) | (df[columna] > 100), columna] = np.nan
 
     print("\nDespués de quitar valores fuera de 0-100:")
     print(df[columna].head())
 
-    # paso 3: imputar NaN con la media
+    # C) Imputar NaN con la media
     media = df[columna].mean()
     cant_nan = df[columna].isna().sum()
 
@@ -147,7 +147,7 @@ def limpiar_columna_numerica(df, columna):
     print("Después de imputar NaN con la media:")
     print(df[columna].head())
 
-    # paso 4: redondear y convertir entero SÍ O SÍ
+    # D) Redondear y convertir entero SÍ O SÍ
     df[columna] = df[columna].round(0).astype("int64")
 
     print("Después de redondear a ENTERO:")
@@ -744,6 +744,7 @@ plt.grid(True, linestyle='--', alpha=0.7)
 plt.xticks(rotation=45, ha='right')
 plt.tight_layout()
 plt.show()
+
 
 
 
