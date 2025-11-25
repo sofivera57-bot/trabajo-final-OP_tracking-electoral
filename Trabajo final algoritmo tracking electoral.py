@@ -223,9 +223,8 @@ def mapear_voto_auto(df):
     tipo = detectar_tipo_voto_uno(df["voto"])
     print(f"Tipo detectado: {tipo}")
 
-    # ==========================================================
     # CASO MULTICANDIDATO
-    # ==========================================================
+   
     if tipo == "multicandidato":
 
         map_voto = {
@@ -709,7 +708,7 @@ for nombre_candidato in tracking_porcentaje.columns:
     plt.tight_layout()
     plt.show()
 
-## VAIABLE IMAGEN DEL CANDIDATO PONDERADA
+## IMAGEN DEL CANDIDATO PONDERADA
 
 # promedio diario
 df_imagen = (
@@ -719,7 +718,7 @@ df_imagen = (
       .to_frame()
 )
 
-# 2. tracking semanal cada 7 días
+# tracking semanal cada 7 días
 tracking_imagen = (
     df_imagen
         .resample("7D")
@@ -745,6 +744,7 @@ plt.grid(True, linestyle='--', alpha=0.7)
 plt.xticks(rotation=45, ha='right')
 plt.tight_layout()
 plt.show()
+
 
 
 
